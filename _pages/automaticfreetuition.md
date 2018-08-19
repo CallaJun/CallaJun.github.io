@@ -26,6 +26,17 @@ Where published, the application deadline for receiving the scholarships is incl
 
 Note: This page's content was largely stolen from [this site](http://automaticfulltuition.yolasite.com), which I replicated and updated in order to provide accurate information. Verifying and updating each scholarship's information will take time. This is a work in progress. You may refer to the original site until this is finished, though be sure to verify the information on the college's website.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2260202932541442"
+     data-ad-slot="7274094177"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Alabama
 
 ### University of Alabama
