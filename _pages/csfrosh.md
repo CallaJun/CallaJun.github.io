@@ -1,7 +1,7 @@
 ---
 layout: page
 title: A Freshman's Guide to Tech Internships
-permalink: /freshmancsinternships/
+permalink: /csfrosh/
 exclude: true
 ---
 
