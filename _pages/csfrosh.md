@@ -94,3 +94,12 @@ All of this wraps up in one word: promise. Companies looking for freshman intern
   - National Security Agency
 - Advanced Freshmen
   - Bloomberg
+  - Yelp
+
+## Resources
+
+- Technical Interviews
+  - [Interviewing.io](https://interviewing.io) Free mock interviews with real interviewers
+  - [LeetCode](https://leetcode.com) Technical interview practice problems
+  - [LintCode](https://www.lintcode.com) Technical interview practice problems
+  - [Pramp](https://www.pramp.com/#/) Free mock interviews with interviewers and fellow interviewees

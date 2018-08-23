@@ -158,7 +158,7 @@ Note: This page's content was largely stolen from [this site](http://automaticfu
 
 ### Delta State University
 - Info
-  - Last verified 6 August 2018
+  - Last verified 23 August 2018
   - Application deadline: Priority - 1 November; Final - 1 Feburary
 - **Full Tuition**
   - [3.0 GPA, 29 ACT (1350 SAT)](http://www.deltastate.edu/admissions/freshmen/#scholarships)
