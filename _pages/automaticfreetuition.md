@@ -215,6 +215,13 @@ Note: This page's content was largely stolen from [this site](http://automaticfu
 - **Full Ride (Tuition + Fees + Housing + Meals + $600/semester for books)**
   - [3.5 GPA, 26 ACT or 1260 SAT](https://www.pvamu.edu/faid/types-of-aid/scholarships/university-scholarships/)
 
+### Texas State University
+- Info
+  - Last verified 25 August 2018
+- **Full Tuition**
+  - [Top 25% of graduating class or IB diploma or AP Capstone Diploma, 32 ACT or 1450 SAT](http://www.finaid.txstate.edu/scholarships/freshman/assured.html)
+  - Out-of-state tuition fee waived
+
 ## Utah
 
 ### Utah State University

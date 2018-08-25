@@ -89,6 +89,7 @@ All of this wraps up in one word: promise. Companies looking for freshman intern
 - Freshman Programs
   - Google Engineering Practicum Internship
   - Microsoft Explore Program
+  - Facebook University
 - Freshman Friendly
   - SendGrid
   - National Security Agency
