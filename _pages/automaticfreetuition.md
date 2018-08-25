@@ -111,6 +111,18 @@ Note: This page's content was largely stolen from [this site](http://automaticfu
 - **Full Tuition + Housing**
   - [3.5 GPA, 31 ACT or 1420 SAT](http://uca.edu/scholarships/prospective-students/)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Automatic Full Tuition 2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2260202932541442"
+     data-ad-slot="1102736792"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Florida
 
 ### Florida A&M
