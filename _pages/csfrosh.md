@@ -9,7 +9,7 @@ exclude: true
 
 Freshmen technical internships are growing in popularity among large companies who want to recruit early. Research shows that students with an interest in CS who engage in a technical internship after their freshman year are far more likely to stick with the major, and companies looking for CS majors like that. Still, the options for freshmen are slim pickings. Of course, there are definitely exceptions. It’s definitely not impossible for a freshman to land an internship geared toward sophomores and juniors. But for the majority of freshmen, big companies with freshmen internship programs are a good first stop.
 
-Google’s Engineering Practicum and Microsoft’s Explore Program are the most popular freshman/sophomore internships - which means that they are also quite competitive. Both Google and Microsoft generally start interviewing in the fall, and spots fill up by January or February, if not earlier. Generally, Google and Microsoft begin inviting candidates to interview by late September or October. If you have missed those early deadlines, never fear. Facebook has Facebook University, also a paid freshman internship program. Applications open in January. It’s only eight weeks long, and more of an educational program than an internship. However, it’s an excellent opportunity and a foot in the door. Twitter has #TwitterAcademy - applications close in February. Likewise, Pinterest has finally hopped on the freshman-internship train. More and more companies are creating opportunities geared toward students early in their college careers. 
+Google’s Engineering Practicum and Microsoft’s Explore Program are the most popular freshman/sophomore internships - which means that they are also quite competitive. Both Google and Microsoft generally start interviewing in the fall, and spots fill up by January or February, if not earlier. Google and Microsoft used to begin inviting candidates by late September or early October. Google has since pushed back its recruitment timeline for freshmen, but it's still midway through fall semester and Microsoft's timeline is still just as early as its software internships for older students. If you have missed those early deadlines, never fear. Facebook has Facebook University, also a paid freshman internship program. Applications open in January. It’s only eight weeks long, and more of an educational program than an internship. However, it’s an excellent opportunity and a foot in the door. Twitter has #TwitterAcademy - applications close in February. Likewise, Pinterest and Amazon have finally hopped on the freshman-internship train. More and more companies are creating opportunities geared toward students early in their college careers. 
 
 While many companies prefer upperclass students, many are not entirely opposed to freshman interns. Many companies who claim to prefer juniors upfront have, indeed, hired freshmen - including Yelp, Amazon, Salesforce, etc. However, these companies tend to hire freshmen only when they can demonstrate the proficiency level of an upperclass students. That being said, it is always better to apply and let the company decide whether or not they want to move forward. In many cases, they might offer a freshman with an impressive resume an interview. Whether or not the freshman makes it past the interview, the experience can give the applicant a better sense of the interview process and the specific company.
 
@@ -86,19 +86,25 @@ All of this wraps up in one word: promise. Companies looking for freshman intern
 
 ## Places To Apply
 
+Suggestions? [Send them over!](mailto:hi@callacarter.com?subject=CSFrosh%20Suggestions)
+
 - Freshman Programs
-  - Google Engineering Practicum Internship
-  - Microsoft Explore Program
-  - Facebook University
+  - [Amazon Future Engineer](https://www.amazon.jobs/en/landing_pages/amazonfutureengineer)
+  - Google Engineering Practicum
+  - [Explore Microsoft](https://careers.microsoft.com/us/en/usexploremicrosoftprogram)
+  - [Facebook University for Engineering](https://www.facebook.com/careers/students-and-grads/students)
 - Freshman Friendly
-  - SendGrid
-  - National Security Agency
+  - [SendGrid](https://squareup.com/careers/university)
+  - [National Security Agency](https://www.nsa.gov/psp/applyonline/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_SCHJOB&Action=U&FOCUS=Applicant&SiteId=1)
 - Advanced Freshmen
   - Bloomberg
-  - Yelp
+  - [Yelp](https://www.yelp.com/careers/job-openings?keywords=&team=college-engineering&location=all)
 
 ## Resources
 
+- Resumés
+  - [Creddle.io](http://creddle.io) Format your resume
+  - [Jobscan](https://www.jobscan.co) Get past resumé reading robots
 - Technical Interviews
   - [Interviewing.io](https://interviewing.io) Free mock interviews with real interviewers
   - [LeetCode](https://leetcode.com) Technical interview practice problems
