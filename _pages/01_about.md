@@ -5,3 +5,4 @@ permalink: /about/
 ---
 
 * [Resume](/Calla_Carter_Resume_V3.pdf)
+* [Etsy Shop](https://www.etsy.com/shop/Cloversea)
