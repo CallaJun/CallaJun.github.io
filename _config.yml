@@ -10,6 +10,6 @@ github_username:  callajun
 # Build Settings
 sass:
   sass_dir: _sass
-include: ['_pages']
+include: ['_pages', '_portfolio']
 kramdown:
   input: GFM
