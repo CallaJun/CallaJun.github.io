@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-* [Resume](/Calla_Carter_Resume_V3.pdf)
+* [Email me](mailto:contact@callacarter.com?Subject=Your%20Resume) if you'd like my resume
 * [Etsy Shop](https://www.etsy.com/shop/Cloversea)
