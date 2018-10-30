@@ -11,9 +11,3 @@ thumbnail: /../img/otherway_thumbnail.png
 </dl>
 
 The Other Way is a virtual reality bicycling experience built for the HTC Vive. I worked as a game designer and programmer on a team of five to design and develop The Other Way in two weeks.
-
-### Bicycle Mechanics
-
-The bicycle mechanics used two HTV Vive trackers to detect handlebar rotation and pedaling. 
-
-### Story
