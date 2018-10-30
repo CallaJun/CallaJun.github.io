@@ -4,6 +4,7 @@ title: SpaceFd
 permalink: /project_spacefd/
 exclude: true
 project: true
+thumbnail: /../img/spacefd_thumbnail.png
 ---
 <dl>
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/P06nYQUiWd4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
