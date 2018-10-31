@@ -1,0 +1,20 @@
+---
+title: "Neopong"
+layout: post
+date: 2018-10-09 12:00
+tag: games
+image: /../assets/images/neopong_thumbnail.png
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "Neopong is a physically demanding hybrid of games like Pong and Breakout built on the Kinect."
+category: project
+author: callacarter
+externalLink: false
+---
+
+Neopong is a physically demanding hybrid of games like Pong and Breakout built on the Kinect. I worked as a game designer and programmer on a team of five to design and develop Neopong in just one week. 
+
+<dl>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/PH9Kc142aY8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</dl>

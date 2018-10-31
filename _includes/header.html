@@ -1,18 +1,26 @@
-<aside>
-	<div class="container">
-		<nav>
-			<ul>
-				<li><a href="/"><strong>Home</strong></a></li>
-				{% for page in site.pages %} 
-					{% if page.title %}
-						{% unless page.exclude %}
-							<li><a href="{{ page.url | prepend: site.baseurl }}"><strong>{{ page.title }}</strong></a></li>
-						{% endunless %}
-					{% endif %} 
-				{% endfor %}
-				<li><a href="{{ "/portfolio" | prepend: site.baseurl }}"><strong>Portfolio</strong></a></li>
-				<!--<li><a href="{{ "/blog" | prepend: site.baseurl }}">Blog</a></li>-->
-			</ul>
-		</nav>
-	</div>
-</aside>
+{% if page.title == "Home"
+   <!--or page.title == "Blog"-->
+   or page.title == "Projects"
+   or page.title == "Tags"
+%}{% assign showHeader = true %}{% endif %}
+
+{% if showHeader == true %}
+    <header class="header-home {% if site.animation %}animated{% endif %}">
+        {% if site.about %}
+            <a class="link" href="{{ site.url }}/about">
+                <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
+            </a>
+        {% else %}
+            <span class="link">
+                <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
+            </span>
+        {% endif %}
+
+        <h1 class="title">{{ site.name }}</h1>
+        <h2 class="description">{{ site.bio }}</h2>
+
+        {% include social-links.html %}
+    </header>
+{% endif %}
+
+{% include nav.html %}

@@ -1,0 +1,20 @@
+---
+title: "SpaceFd"
+layout: post
+date: 2018-09-18 12:00
+tag: games
+image: /../assets/images/spacefd_thumbnail.png
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "SpaceFd is a virtual reality space journey designed for the HTC Vive."
+category: project
+author: callacarter
+externalLink: false
+---
+
+SpaceFd is a virtual reality space journey designed for the HTC Vive. I worked as a game designer and programmer on a team of five to design and develop it in two weeks.
+
+<dl>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/P06nYQUiWd4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</dl>
