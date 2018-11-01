@@ -4,10 +4,6 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-Hello. I'm a graduate student at the [Entertainment Technology Center](http://www.etc.cmu.edu) at [Carnegie Mellon University](https://www.cmu.edu). A few random highlights:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at ante molestie purus rutrum molestie. Sed tincidunt consectetur ipsum, sed pellentesque nisi efficitur a. Integer et felis ut magna suscipit auctor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vivamus posuere ex leo, pellentesque faucibus libero tincidunt et. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam egestas nisl vitae volutpat scelerisque. Nullam id urna vel tortor imperdiet facilisis. Proin magna metus, venenatis non erat a, semper malesuada metus. Aenean dapibus eros ac sodales finibus. Praesent vitae magna eu lectus pharetra egestas. Maecenas sed placerat purus, eu vehicula mi. Mauris enim erat, eleifend sed mi a, porttitor tincidunt dui. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nunc tincidunt vulputate tristique.
 
-- I graduated from [Bryn Mawr College](https://www.brynmawr.edu) with a degree in computer science.
-- While there, I founded [Sudo Hoot](https://sudohoot.com), Bryn Mawr's student computer science organization
-- I organized a hackathon at the White House. In 2015, I helped the Obama Administration develop and organize the first [White House CS Tech Jam](https://obamawhitehouse.archives.gov/blog/2015/12/08/administration-kicks-participation-computer-science-education-week) as part of Computer Science Education Week.
-- I make zipper pouches with Skittles wrappers and sell them on [Etsy](https://www.etsy.com/shop/Cloversea).
-- I am not done filling this website with content and am open to suggestions.
+Nulla tristique tempor tellus, vel volutpat erat posuere a. Duis ut diam vel lacus rhoncus egestas ac at odio. Maecenas fermentum nulla sed massa commodo bibendum. Integer est enim, fringilla eu elit sed, porta pulvinar lorem. Quisque ornare est id hendrerit rutrum. Pellentesque nec arcu finibus, tempus risus sed, consequat nisi. In feugiat lorem ipsum, sed dignissim ipsum suscipit in. In non lobortis odio. Vestibulum at massa nec mi pretium ullamcorper a id leo. Vestibulum mattis, leo a ullamcorper ultrices, nisi turpis tincidunt felis, ut rutrum nisi felis vel lorem.
