@@ -38,5 +38,4 @@ When the player is moving on the bike, we add tunnel vision to create a constant
 ___
 
 ### Map & Environment
-
 More to come...
