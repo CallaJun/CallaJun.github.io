@@ -1,6 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-11-29T20:25:48-05:00</updated><id>http://localhost:4000/</id><title type="html">Calla Carter</title><subtitle>Calla's portfolio</subtitle><entry><title type="html">Pollen Nation</title><link href="http://localhost:4000/pollen-nation/" rel="alternate" type="text/html" title="Pollen Nation" /><published>2018-11-20T12:00:00-05:00</published><updated>2018-11-20T12:00:00-05:00</updated><id>http://localhost:4000/pollen-nation</id><content type="html" xml:base="http://localhost:4000/pollen-nation/">&lt;p&gt;Pollen Nation is an asymmetrical, multiplayer, virtual reality and controller-driven game built for the HTC Vive and PC. I worked as a game designer and programmer on a team of five to design and develop it in three weeks.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-11-29T21:04:37-05:00</updated><id>http://localhost:4000/</id><title type="html">Calla Carter</title><subtitle>Calla's portfolio</subtitle><entry><title type="html">Pollen Nation</title><link href="http://localhost:4000/pollen-nation/" rel="alternate" type="text/html" title="Pollen Nation" /><published>2018-11-20T12:00:00-05:00</published><updated>2018-11-20T12:00:00-05:00</updated><id>http://localhost:4000/pollen-nation</id><content type="html" xml:base="http://localhost:4000/pollen-nation/">&lt;p&gt;Pollen Nation is an asymmetrical, multiplayer, virtual reality and controller-driven game built for the HTC Vive and PC. I worked as a game designer and programmer on a team of five to design and develop it in three weeks.&lt;/p&gt;
 
 &lt;p&gt;It’s the Kentucky Derby of the bug world. A praying mantis, embodied by a player in a VR headset, takes on three bees, controlled by three Xbox controller players. The bees’ goal is to work together to pollinate all of the flowers in the arena before the timer reaches zero, and the mantis’s goal is to stop them. At the mantis’s disposal are magical Venus flytrap seeds that can be thrown to slow the bees down.&lt;/p&gt;
+
+&lt;p&gt;Teammates:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Calla Carter (me), Producer &amp;amp; Programmer&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://swapnilmengade.wordpress.com&quot;&gt;Swapnil Mengade&lt;/a&gt;, Programmer&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chiachiaurorakingdom.weebly.com/portfolio.html&quot;&gt;Chia-Chi (Aurora) Chang&lt;/a&gt;, Artist&lt;/li&gt;
+  &lt;li&gt;Varun Mehra, Producer &amp;amp; Artist&lt;/li&gt;
+  &lt;li&gt;Alexander Woskob, Sound Designer&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;dl&gt;
 	&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Aw_DF2T4vqU&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
@@ -85,6 +94,8 @@
 	&lt;img width=&quot;100%&quot; src=&quot;/../assets/images/pollennation9.gif&quot; /&gt;
 	&lt;img width=&quot;100%&quot; src=&quot;/../assets/images/pollennation10.gif&quot; /&gt;
 &lt;/dl&gt;
+
+&lt;hr /&gt;
 
 &lt;h3 id=&quot;engineering&quot;&gt;Engineering&lt;/h3&gt;</content><author><name>callacarter</name></author><category term="project" /><category term="games" /><summary type="html">Pollen Nation is an asymmetrical, multiplayer, virtual reality and controller-driven game built for the HTC Vive and PC. I worked as a game designer and programmer on a team of five to design and develop it in three weeks.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/pollennation1.png" /></entry><entry><title type="html">The Other Way</title><link href="http://localhost:4000/the-other-way/" rel="alternate" type="text/html" title="The Other Way" /><published>2018-10-20T12:00:00-04:00</published><updated>2018-10-20T12:00:00-04:00</updated><id>http://localhost:4000/the-other-way</id><content type="html" xml:base="http://localhost:4000/the-other-way/">&lt;p&gt;The Other Way is a virtual reality bicycling experience built for the HTC Vive. I worked as a game designer and programmer on a team of five to design and develop The Other Way in two weeks.&lt;/p&gt;
 
