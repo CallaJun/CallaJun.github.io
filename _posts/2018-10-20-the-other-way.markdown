@@ -17,6 +17,12 @@ The Other Way is a virtual reality bicycling experience built for the HTC Vive. 
 
 The world presents simple story about childhood independence. The player is a child who is on a bike ride with their mother. When a tree falls blocking their path, the child must set off their own and take an alternate path. While simple, telling the story required considerable thought and iterating to arrive at a VR bike experience that was fun, realistic, and not motion-sickness-inducing. 
 
+* Team
+	* [Conor Triplett](https://www.conortriplett.com)
+	* [Shengzhi Wu](http://www.wushengzhi.xyz/about)
+	* [Siyu Chen](http://siyuchenarts.com)
+	* Max Hsieh
+
 <dl>
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/nmwFswWJpf8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </dl>
@@ -37,5 +43,4 @@ When the player is moving on the bike, we add tunnel vision to create a constant
 
 ___
 
-### Map & Environment
-More to come...
+

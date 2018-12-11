@@ -15,14 +15,13 @@ externalLink: false
 
 Pollen Nation is an asymmetrical, multiplayer, virtual reality and controller-driven game built for the HTC Vive and PC. I worked as a game designer and programmer on a team of five to design and develop it in three weeks.
 
-It's the Kentucky Derby of the bug world. A praying mantis, embodied by a player in a VR headset, takes on three bees, controlled by three Xbox controller players. The bees' goal is to work together to pollinate all of the flowers in the arena before the timer reaches zero, and the mantis's goal is to stop them. At the mantis's disposal are magical Venus flytrap seeds that can be thrown to slow the bees down. 
+It's the Kentucky Derby of the bug world. A praying mantis, embodied by a player in a VR headset, takes on three bees, controlled by three Xbox controller players. The bees' goal is to work together to pollinate all of the flowers in the arena before the timer reaches zero, and the mantis's goal is to stop them. At the mantis's disposal are magical Venus flytrap seeds that can be thrown to slow the bees down.
 
-Teammates:
-* Calla Carter (me), Producer & Programmer
-* [Swapnil Mengade](https://swapnilmengade.wordpress.com), Programmer
-* [Chia-Chi (Aurora) Chang](https://chiachiaurorakingdom.weebly.com/portfolio.html), Artist
-* Varun Mehra, Producer & Artist
-* Alexander Woskob, Sound Designer
+* Team
+	* [Chia-chi Chang](https://chiachiaurorakingdom.weebly.com/portfolio.html) 
+	* [Swapnil Mengade](https://swapnilmengade.wordpress.com)
+	* [Varun Mehra](https://www.varunmehra.me)
+	* Alexander Woskob
 
 <dl>
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/Aw_DF2T4vqU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
