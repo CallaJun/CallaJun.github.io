@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-12-10T22:07:06-05:00</updated><id>http://localhost:4000/</id><title type="html">Calla Carter</title><subtitle>Calla's portfolio</subtitle><entry><title type="html">Pollen Nation</title><link href="http://localhost:4000/pollen-nation/" rel="alternate" type="text/html" title="Pollen Nation" /><published>2018-11-20T12:00:00-05:00</published><updated>2018-11-20T12:00:00-05:00</updated><id>http://localhost:4000/pollen-nation</id><content type="html" xml:base="http://localhost:4000/pollen-nation/">&lt;p&gt;Pollen Nation is an asymmetrical, multiplayer, virtual reality and controller-driven game built for the HTC Vive and PC. I worked as a game designer and programmer on a team of five to design and develop it in three weeks.&lt;/p&gt;
-
-&lt;p&gt;It’s the Kentucky Derby of the bug world. A praying mantis, embodied by a player in a VR headset, takes on three bees, controlled by three Xbox controller players. The bees’ goal is to work together to pollinate all of the flowers in the arena before the timer reaches zero, and the mantis’s goal is to stop them. At the mantis’s disposal are magical Venus flytrap seeds that can be thrown to slow the bees down.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-12-11T22:45:17-05:00</updated><id>http://localhost:4000/</id><title type="html">Calla Carter</title><subtitle>Calla's portfolio</subtitle><entry><title type="html">Pollen Nation</title><link href="http://localhost:4000/pollen-nation/" rel="alternate" type="text/html" title="Pollen Nation" /><published>2018-11-20T12:00:00-05:00</published><updated>2018-11-20T12:00:00-05:00</updated><id>http://localhost:4000/pollen-nation</id><content type="html" xml:base="http://localhost:4000/pollen-nation/">&lt;p&gt;Pollen Nation is an asymmetrical, multiplayer, virtual reality (VR) and controller-driven game built for the HTC Vive and PC. I worked as a game designer and programmer on a team of five to design and develop it in three weeks.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Team
+  &lt;li&gt;Personal Contributions
     &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://chiachiaurorakingdom.weebly.com/portfolio.html&quot;&gt;Chia-chi Chang&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://swapnilmengade.wordpress.com&quot;&gt;Swapnil Mengade&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.varunmehra.me&quot;&gt;Varun Mehra&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;Alexander Woskob&lt;/li&gt;
+      &lt;li&gt;Worked on an interdisciplinary team to design and develop an asymmetrical, multiplayer game for VR and PC&lt;/li&gt;
+      &lt;li&gt;Developed the game in C# in the Unity Game Engine with another programmer&lt;/li&gt;
+      &lt;li&gt;Wrote scripts to handle character controls and behavior&lt;/li&gt;
+      &lt;li&gt;Wrote game controller which orchestrated the sequence of events throughout the experience&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;It’s the Kentucky Derby of the bug world. A praying mantis, embodied by a player in a VR headset, takes on three bees, controlled by three Xbox controller players. The bees’ goal is to work together to pollinate all of the flowers in the arena before the timer reaches zero, and the mantis’s goal is to stop them. At the mantis’s disposal are magical Venus flytrap seeds that can be thrown to slow the bees down.&lt;/p&gt;
 
 &lt;dl&gt;
 	&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Aw_DF2T4vqU&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
@@ -99,20 +99,32 @@
 
 &lt;hr /&gt;
 
-&lt;h3 id=&quot;engineering&quot;&gt;Engineering&lt;/h3&gt;</content><author><name>callacarter</name></author><category term="project" /><category term="games" /><summary type="html">Pollen Nation is an asymmetrical, multiplayer, virtual reality and controller-driven game built for the HTC Vive and PC. I worked as a game designer and programmer on a team of five to design and develop it in three weeks.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/pollennation1.png" /></entry><entry><title type="html">The Other Way</title><link href="http://localhost:4000/the-other-way/" rel="alternate" type="text/html" title="The Other Way" /><published>2018-10-20T12:00:00-04:00</published><updated>2018-10-20T12:00:00-04:00</updated><id>http://localhost:4000/the-other-way</id><content type="html" xml:base="http://localhost:4000/the-other-way/">&lt;p&gt;The Other Way is a virtual reality bicycling experience built for the HTC Vive. I worked as a game designer and programmer on a team of five to design and develop The Other Way in two weeks.&lt;/p&gt;
+&lt;h3 id=&quot;engineering&quot;&gt;Engineering&lt;/h3&gt;
 
-&lt;p&gt;The world presents simple story about childhood independence. The player is a child who is on a bike ride with their mother. When a tree falls blocking their path, the child must set off their own and take an alternate path. While simple, telling the story required considerable thought and iterating to arrive at a VR bike experience that was fun, realistic, and not motion-sickness-inducing.&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;team&quot;&gt;Team&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chiachiaurorakingdom.weebly.com/portfolio.html&quot;&gt;Chia-chi Chang&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://swapnilmengade.wordpress.com&quot;&gt;Swapnil Mengade&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.varunmehra.me&quot;&gt;Varun Mehra&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Alexander Woskob&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>callacarter</name></author><category term="project" /><category term="games" /><summary type="html">Pollen Nation is an asymmetrical, multiplayer, virtual reality (VR) and controller-driven game built for the HTC Vive and PC. I worked as a game designer and programmer on a team of five to design and develop it in three weeks.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/pollennation1.png" /></entry><entry><title type="html">The Other Way</title><link href="http://localhost:4000/the-other-way/" rel="alternate" type="text/html" title="The Other Way" /><published>2018-10-20T12:00:00-04:00</published><updated>2018-10-20T12:00:00-04:00</updated><id>http://localhost:4000/the-other-way</id><content type="html" xml:base="http://localhost:4000/the-other-way/">&lt;p&gt;The Other Way is a virtual reality (VR) bicycling experience built for the HTC Vive. I worked as a game designer and programmer on a team of five to design and develop The Other Way in two weeks.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Team
+  &lt;li&gt;Personal Contributions
     &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.conortriplett.com&quot;&gt;Conor Triplett&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://www.wushengzhi.xyz/about&quot;&gt;Shengzhi Wu&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://siyuchenarts.com&quot;&gt;Siyu Chen&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;Max Hsieh&lt;/li&gt;
+      &lt;li&gt;Worked in an interdisciplinary team to design a VR bicycling experience&lt;/li&gt;
+      &lt;li&gt;Developed the game using C# in the Unity Game Engine with another programmer&lt;/li&gt;
+      &lt;li&gt;Wrote scripts to connect physical bicycle handle and pedal movement to virtual bicycle asset in a 3D space&lt;/li&gt;
+      &lt;li&gt;Created dust and wind particle system to create a realistic natural environment&lt;/li&gt;
+      &lt;li&gt;Wrote game controller which orchestrated the sequence of events throughout the experience&lt;/li&gt;
+      &lt;li&gt;Composed and chose music and sound effects using Logic Pro&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;The world presents simple story about childhood independence. The player is a child who is on a bike ride with their mother. When a tree falls blocking their path, the child must set off their own and take an alternate path. While simple, telling the story required considerable thought and iterating to arrive at a VR bike experience that was fun, realistic, and not motion-sickness-inducing.&lt;/p&gt;
 
 &lt;dl&gt;
 	&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/nmwFswWJpf8&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
@@ -132,7 +144,27 @@
 
 &lt;p&gt;When the player is moving on the bike, we add tunnel vision to create a constant point of focus and prevent motion sickness. Initially, we (and our playtesters) experienced abrupt, intense, and lingering nausea while riding the bike. We were inspired by &lt;a href=&quot;https://developers.google.com/vr/elements/tunneling&quot;&gt;Google Daydream&lt;/a&gt; to add tunnel vision to the VR space. Our subsequent playtesters’ experiences were consistent with Google’s studies in that they did not notice the tunnel vision while riding through our world.&lt;/p&gt;
 
-&lt;hr /&gt;</content><author><name>callacarter</name></author><category term="project" /><category term="games" /><summary type="html">The Other Way is a virtual reality bicycling experience built for the HTC Vive. I worked as a game designer and programmer on a team of five to design and develop The Other Way in two weeks.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/otherway_thumbnail.png" /></entry><entry><title type="html">Neopong</title><link href="http://localhost:4000/neopong/" rel="alternate" type="text/html" title="Neopong" /><published>2018-10-09T12:00:00-04:00</published><updated>2018-10-09T12:00:00-04:00</updated><id>http://localhost:4000/neopong</id><content type="html" xml:base="http://localhost:4000/neopong/">&lt;p&gt;Neopong is a physically demanding hybrid of games like Pong and Breakout built on the Kinect. I worked as a game designer and programmer on a team of five to design and develop Neopong in just one week.&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;team&quot;&gt;Team&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.conortriplett.com&quot;&gt;Conor Triplett&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.wushengzhi.xyz/about&quot;&gt;Shengzhi Wu&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://siyuchenarts.com&quot;&gt;Siyu Chen&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Max Hsieh&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>callacarter</name></author><category term="project" /><category term="games" /><summary type="html">The Other Way is a virtual reality (VR) bicycling experience built for the HTC Vive. I worked as a game designer and programmer on a team of five to design and develop The Other Way in two weeks.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/otherway_thumbnail.png" /></entry><entry><title type="html">Neopong</title><link href="http://localhost:4000/neopong/" rel="alternate" type="text/html" title="Neopong" /><published>2018-10-09T12:00:00-04:00</published><updated>2018-10-09T12:00:00-04:00</updated><id>http://localhost:4000/neopong</id><content type="html" xml:base="http://localhost:4000/neopong/">&lt;p&gt;Neopong is a physically demanding hybrid of games like Pong and Breakout built on the Kinect. I worked as a game designer and programmer on a team of five to design and develop Neopong in just one week.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Personal Contributions
+    &lt;ul&gt;
+      &lt;li&gt;Worked in an interdisciplinary team to design a Kinect 2 game&lt;/li&gt;
+      &lt;li&gt;Developed the game using C# in the Unity Game Engine with another programmer&lt;/li&gt;
+      &lt;li&gt;Wrote scripts to handle paddle and ball behavior, crystals, and goals&lt;/li&gt;
+      &lt;li&gt;Handled sequence of events throughout the experience&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;dl&gt;
 	&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/PH9Kc142aY8&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
@@ -307,4 +339,27 @@
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;iframe&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;width=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;560&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;height=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;310&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youtube.com/embed/r7XhWUDj-Ts&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;frameborder=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;0&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;allowfullscreen&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;iframe width=&quot;560&quot; height=&quot;310&quot; src=&quot;https://www.youtube.com/embed/r7XhWUDj-Ts&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>jamesfoster</name></author><category term="blog" /><category term="markdown" /><category term="components" /><category term="extra" /><summary type="html">Summary:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /></entry></feed>
+&lt;iframe width=&quot;560&quot; height=&quot;310&quot; src=&quot;https://www.youtube.com/embed/r7XhWUDj-Ts&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>jamesfoster</name></author><category term="blog" /><category term="markdown" /><category term="components" /><category term="extra" /><summary type="html">Summary:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /></entry><entry><title type="html">Poissy Processional</title><link href="http://localhost:4000/poissy-processional/" rel="alternate" type="text/html" title="Poissy Processional" /><published>2016-01-28T12:00:00-05:00</published><updated>2016-01-28T12:00:00-05:00</updated><id>http://localhost:4000/poissy-processional</id><content type="html" xml:base="http://localhost:4000/poissy-processional/">&lt;p&gt;&lt;a href=&quot;http://poissyprocessional.brynmawr.edu/?p=146&quot;&gt;Poissy Processional&lt;/a&gt; is a website which examines a late Gothic, French processional (c. 1450-1500), which was probably held by the aristocratic, Dominican convent of Saint-Louis at Poissy.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Personal Contributions
+    &lt;ul&gt;
+      &lt;li&gt;Developed a pedagogical, interactive website to make a late-medieval transcript accessible to archeological and literary communities with HTML, CSS, and Javascript&lt;/li&gt;
+      &lt;li&gt;Met with History of Art doctoral candidate Nava Streiter and various staff in the Bryn Mawr College Special Collections Department to fulfill client needs&lt;/li&gt;
+      &lt;li&gt;Worked with another programmer to set up a Wordpress website, train the client to use the platform&lt;/li&gt;
+      &lt;li&gt;Awarded the &lt;a href=&quot;http://dvmamedieval.com/grants-and-prizes/digital-project-prize.html&quot;&gt;Delaware Valley Medieval Association Digital Projects Prize&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;Gave a technical talk about the design and development process to the Delaware Valley Medieval Association&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;client-requirements&quot;&gt;Client Requirements&lt;/h3&gt;
+&lt;p&gt;Initially, the client presented me with the following requirements:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;A digitization of a Gothic Latin text available online that retains the experience of handling the physical object&lt;/li&gt;
+  &lt;li&gt;A website that is maintainable by individuals of low technical ability&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;After my initial meeting with the client, I determined that Wordpress was the best platform to host static information. Its interface made it easy for the client to add and edit content and make minor changes to the site design. I also found and presented the &lt;a href=&quot;http://www.turnjs.com&quot;&gt;Turn.js&lt;/a&gt; API to create the page-turning effect the client requested.&lt;/p&gt;</content><author><name>callacarter</name></author><category term="project" /><category term="web" /><summary type="html">Poissy Processional is a website which examines a late Gothic, French processional (c. 1450-1500), which was probably held by the aristocratic, Dominican convent of Saint-Louis at Poissy.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/poissyprocessional_thumbnail.jpg" /></entry></feed>

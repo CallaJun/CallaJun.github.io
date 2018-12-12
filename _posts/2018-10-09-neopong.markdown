@@ -15,6 +15,12 @@ externalLink: false
 
 Neopong is a physically demanding hybrid of games like Pong and Breakout built on the Kinect. I worked as a game designer and programmer on a team of five to design and develop Neopong in just one week. 
 
+* Personal Contributions
+	* Worked in an interdisciplinary team to design a Kinect 2 game
+	* Developed the game using C# in the Unity Game Engine with another programmer
+	* Wrote scripts to handle paddle and ball behavior, crystals, and goals
+	* Handled sequence of events throughout the experience
+
 <dl>
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/PH9Kc142aY8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </dl>

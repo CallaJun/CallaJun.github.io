@@ -13,15 +13,15 @@ author: callacarter
 externalLink: false
 ---
 
-Pollen Nation is an asymmetrical, multiplayer, virtual reality and controller-driven game built for the HTC Vive and PC. I worked as a game designer and programmer on a team of five to design and develop it in three weeks.
+Pollen Nation is an asymmetrical, multiplayer, virtual reality (VR) and controller-driven game built for the HTC Vive and PC. I worked as a game designer and programmer on a team of five to design and develop it in three weeks.
+
+* Personal Contributions
+	* Worked on an interdisciplinary team to design and develop an asymmetrical, multiplayer game for VR and PC
+	* Developed the game in C# in the Unity Game Engine with another programmer
+	* Wrote scripts to handle character controls and behavior
+	* Wrote game controller which orchestrated the sequence of events throughout the experience
 
 It's the Kentucky Derby of the bug world. A praying mantis, embodied by a player in a VR headset, takes on three bees, controlled by three Xbox controller players. The bees' goal is to work together to pollinate all of the flowers in the arena before the timer reaches zero, and the mantis's goal is to stop them. At the mantis's disposal are magical Venus flytrap seeds that can be thrown to slow the bees down.
-
-* Team
-	* [Chia-chi Chang](https://chiachiaurorakingdom.weebly.com/portfolio.html) 
-	* [Swapnil Mengade](https://swapnilmengade.wordpress.com)
-	* [Varun Mehra](https://www.varunmehra.me)
-	* Alexander Woskob
 
 <dl>
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/Aw_DF2T4vqU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -102,3 +102,11 @@ Finally, we playtested tutorial images that were concise and gave players of man
 ___
 
 ### Engineering
+
+___
+
+### Team
+* [Chia-chi Chang](https://chiachiaurorakingdom.weebly.com/portfolio.html) 
+* [Swapnil Mengade](https://swapnilmengade.wordpress.com)
+* [Varun Mehra](https://www.varunmehra.me)
+* Alexander Woskob

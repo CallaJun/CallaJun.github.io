@@ -13,15 +13,17 @@ author: callacarter
 externalLink: false
 ---
 
-The Other Way is a virtual reality bicycling experience built for the HTC Vive. I worked as a game designer and programmer on a team of five to design and develop The Other Way in two weeks.
+The Other Way is a virtual reality (VR) bicycling experience built for the HTC Vive. I worked as a game designer and programmer on a team of five to design and develop The Other Way in two weeks.
+
+* Personal Contributions
+	* Worked in an interdisciplinary team to design a VR bicycling experience
+	* Developed the game using C# in the Unity Game Engine with another programmer
+	* Wrote scripts to connect physical bicycle handle and pedal movement to virtual bicycle asset in a 3D space
+	* Created dust and wind particle system to create a realistic natural environment
+	* Wrote game controller which orchestrated the sequence of events throughout the experience
+	* Composed and chose music and sound effects using Logic Pro
 
 The world presents simple story about childhood independence. The player is a child who is on a bike ride with their mother. When a tree falls blocking their path, the child must set off their own and take an alternate path. While simple, telling the story required considerable thought and iterating to arrive at a VR bike experience that was fun, realistic, and not motion-sickness-inducing. 
-
-* Team
-	* [Conor Triplett](https://www.conortriplett.com)
-	* [Shengzhi Wu](http://www.wushengzhi.xyz/about)
-	* [Siyu Chen](http://siyuchenarts.com)
-	* Max Hsieh
 
 <dl>
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/nmwFswWJpf8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -42,5 +44,12 @@ To detect bicycle mechanics, the bike uses two HTC Vive trackers; one on the han
 When the player is moving on the bike, we add tunnel vision to create a constant point of focus and prevent motion sickness. Initially, we (and our playtesters) experienced abrupt, intense, and lingering nausea while riding the bike. We were inspired by [Google Daydream](https://developers.google.com/vr/elements/tunneling) to add tunnel vision to the VR space. Our subsequent playtesters' experiences were consistent with Google's studies in that they did not notice the tunnel vision while riding through our world. 
 
 ___
+
+### Team
+
+* [Conor Triplett](https://www.conortriplett.com)
+* [Shengzhi Wu](http://www.wushengzhi.xyz/about)
+* [Siyu Chen](http://siyuchenarts.com)
+* Max Hsieh
 
 
