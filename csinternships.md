@@ -5,7 +5,7 @@ layout: page
 
 # Places to Apply: Summer 2019 Internships
 
-Please send any additions or report expired links to [me](mailto:placestoapply@callacarter.com).
+Please send any additions or report expired links to [me](mailto:placestoapply@callacarter.com). If you're a freshman or sophomore trying to find your first internship, [this guide](/csfrosh) might help you out.
 
 ## Short Applications, no account creation <20 seconds-1 minute
 

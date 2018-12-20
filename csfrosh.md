@@ -4,6 +4,8 @@ layout: page
 ---
 # A Freshman's Guide to Tech Internships
 
+[Find places to apply here.](/csinternships)
+
 ## Overview
 
 Freshmen technical internships are growing in popularity among large companies who want to recruit early. Research shows that students with an interest in CS who engage in a technical internship after their freshman year are far more likely to stick with the major, and companies looking for CS majors like that. Still, the options for freshmen are slim pickings. Of course, there are definitely exceptions. It’s definitely not impossible for a freshman to land an internship geared toward sophomores and juniors. But for the majority of freshmen, big companies with freshmen internship programs are a good first stop.
@@ -85,7 +87,7 @@ All of this wraps up in one word: promise. Companies looking for freshman intern
 
 ## Places To Apply
 
-Suggestions? [Send them over!](mailto:hi@callacarter.com?subject=CSFrosh%20Suggestions)
+Find more places to apply [here](/csinternships).
 
 - Freshman Programs
   - [Amazon Future Engineer](https://www.amazon.jobs/en/landing_pages/amazonfutureengineer)
@@ -98,7 +100,7 @@ Suggestions? [Send them over!](mailto:hi@callacarter.com?subject=CSFrosh%20Sugge
   - [National Security Agency](https://www.nsa.gov/psp/applyonline/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_SCHJOB&Action=U&FOCUS=Applicant&SiteId=1)
   - [Fidelity](#)
 - Advanced Freshmen
-  - Bloomberg
+  - [Bloomberg](https://careers.bloomberg.com/job/detail/68834)
   - [Yelp](https://www.yelp.com/careers/job-openings?keywords=&team=college-engineering&location=all)
 
 ## Resources
