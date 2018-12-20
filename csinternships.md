@@ -16,24 +16,19 @@ Please send any additions or report expired links to [me](mailto:placestoapply@c
 * [Appian Software Engineering Intern](https://boards.greenhouse.io/appian/jobs/1284024)
 * [Appian Strategy Analyst Intern](https://boards.greenhouse.io/appian/jobs/1342187)
 * [AppNexus Software Engineering Intern](https://www.appnexus.com/careers/open-roles?cjobid=ES4649371116)
-* [Chan Zuckerberg Initiative Software Engineering Intern](https://boards.greenhouse.io/chanzuckerberginitiative/jobs/1308983?gh_jid=1308983)
+* [Chan Zuckerberg Initiative User Experience Researcher Intern, Science](https://boards.greenhouse.io/chanzuckerberginitiative/jobs/1331664?gh_jid=1331664)
+* [Chan Zuckerberg Initiative Produce Designer Intern](https://boards.greenhouse.io/chanzuckerberginitiative/jobs/1475056?gh_jid=1475056)
 * [Chegg Software Engineering Intern](http://jobs.jobvite.com/chegg/job/oXbd8fwd)
-* [Civis Analytics Software Engineering Intern](https://boards.greenhouse.io/civisanalytics/jobs/1256998)
 * [Celo Software Engineering Intern](https://jobs.lever.co/celo/2daceba4-1258-4445-9e8f-a96d796907f9)
 * [Datto Software Engineering Intern](https://boards.greenhouse.io/datto/jobs/1254059?gh_src=5epnkj1)
 * [Foursquare Software Engineering Intern](https://boards.greenhouse.io/foursquare26/jobs/1309390)
 * [Gusto Software Engineering Intern](https://boards.greenhouse.io/gusto/jobs/1300707)
 * [HomeAway Software Engineering Intern](https://jobs.jobvite.com/homeaway/job/oRJm8fwO)
-* [Honey Software Engineering Intern](https://boards.greenhouse.io/honey/jobs/1279222)
 * [Knewton Software Engineering Intern](https://jobs.lever.co/knewton/4883d3d9-168f-41d2-bac9-f40c202aacdb)
 * [Lending Home Software Engineering Intern](https://boards.greenhouse.io/lendinghome/jobs/1316709?gh_jid=1316709)
 * [Lyft Autonomous Driving Software Engineering Intern](https://boards.greenhouse.io/lyft/jobs/4069583002?gh_jid=4069583002)
 * [Managed By Q Software Engineering Intern](https://boards.greenhouse.io/managedbyq/jobs/1303059)
 * [Narrative Science Software Engineering Intern](https://jobs.jobvite.com/narrative-science/job/oeD47fwM)
-* [Niantic Software Engineering Intern LA](https://boards.greenhouse.io/niantic/jobs/4097864002)
-* [Niantic Software Engineering Intern Seattle](https://boards.greenhouse.io/niantic/jobs/4097863002)
-* [Niantic Software Engineering Intern SF](https://boards.greenhouse.io/niantic/jobs/4097861002)
-* [Niantic Software Engineering Intern Sunnyvale](https://boards.greenhouse.io/niantic/jobs/4097862002)
 * [Oscar Software Engineering Intern](https://www.hioscar.com/careers/1318963?gh_jid=1318963&gh_src=a49029e11)
 * [PureStorage Software Engineering Intern, Machine Learning](https://boards.greenhouse.io/purestorage/jobs/1265938)
 * [Qualtrics Software Engineering Intern](https://boards.greenhouse.io/qualtrics/jobs/755570?gh_src=1)
@@ -45,11 +40,23 @@ Please send any additions or report expired links to [me](mailto:placestoapply@c
 * [Sighten Software Engineering Intern](https://jobs.lever.co/sighten/8d62f48e-9dbc-4cd2-92cf-067b10e43443)
 * [SimplyInsured Software Engineering Intern](https://boards.greenhouse.io/si/jobs/868289)
 * [Thumbtack Software Engineering Intern](https://boards.greenhouse.io/thumbtack/jobs/2570)
-* [Valassis Digital Software Engineering Intern](https://www.valassisdigital.com/careers/?gnk=job&gni=8a78859e64f8dfac0165395973ca3346&gns=Indeed)
 * [WillowTree Software Engineering Intern](https://willowtreeapps.com/careers/jobs/o1Jd8fwP/software-engineer-intern-(summer-2019)?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 * [Xylem Software Engineering Intern](https://jobs.jobvite.com/xylem/job/oHWl8fwQ)
 * [Yext Software Engineering Intern](https://boards.greenhouse.io/yext/jobs/1300034)
 * [Zoox Software Engineering Intern](https://jobs.lever.co/zoox/508e1c93-c04c-4f17-85be-676d9260fcfc)
+
+<dl>
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<ins class="adsbygoogle"
+	     style="display:block; text-align:center;"
+	     data-ad-layout="in-article"
+	     data-ad-format="fluid"
+	     data-ad-client="ca-pub-2260202932541442"
+	     data-ad-slot="1215084997"></ins>
+	<script>
+	     (adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</dl>
 
 ## Not-as-short applications >1 minute or Unknown
 
@@ -65,8 +72,6 @@ Please send any additions or report expired links to [me](mailto:placestoapply@c
 * [Blizzard Software Engineering Intern, Server](https://careers.blizzard.com/en-us/openings/o40B8fwx) ([Handshake](https://cmu.joinhandshake.com/jobs/2057927?ref=web-app-job-search&search_id=b442d133-410c-4dfe-9dad-4b401793d265))
 * [Enova Software Engineering Intern](https://boards.greenhouse.io/enova/jobs/1298856)
 * [Facebook Software Engineering Intern](https://www.facebook.com/careers/jobs/a0I1200000IAGYKEA5/)
-* [Google Software Engineering Intern](https://careers.google.com/jobs#!t=jo&jid=/company/software-engineering-intern-bs-summer-1600-amphitheatre-pkwy-mountain-view-ca-4223760082), Bachelor's ([Handshake](https://cmu.joinhandshake.com/jobs/2002818?ref=web-app-job-search&search_id=74c04d53-9c5b-4a22-813c-3917f9a67013))
-* [Google Software Engineering Intern](https://careers.google.com/jobs?utm_source=Handshake&utm_medium=job_board&utm_campaign=upmintern&src=Online/TOPs/Handshake_Board#!t=jo&jid=/google/software-engineering-intern-ms-summer-1600-amphitheatre-pkwy-mountain-view-ca-4248850151&), Master's ([Handshake](https://cmu.joinhandshake.com/jobs/2028247?ref=web-app-job-search&search_id=836ede64-7172-47bc-a50a-2933086333b4))
 * [KhanAcademy Software Engineer Intern](https://boards.greenhouse.io/khanacademy/jobs/15827)
 * [KPCB Fellowship (Software Engineering Intern)](http://fellows.kleinerperkins.com/#apply)
 * [Lucid Software Engineering Intern](https://jobs.lever.co/golucid/90f63861-6418-4e94-9074-de89eaca47be)
@@ -77,6 +82,19 @@ Please send any additions or report expired links to [me](mailto:placestoapply@c
 * [Twilio Software Engineering Intern](https://boards.greenhouse.io/twilio/jobs/1291871)
 * [Capital One Software Engineer Intern](https://campus.capitalone.com/job/mclean/technology-development-program-intern-18-19/1786/8903613)
 * [Duolingo Software Engineer Intern](https://hire.withgoogle.com/public/jobs/duolingocom/view/P_AAAAAADAAGeAkDIYY-dBXx)
+
+<dl>
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<ins class="adsbygoogle"
+	     style="display:block; text-align:center;"
+	     data-ad-layout="in-article"
+	     data-ad-format="fluid"
+	     data-ad-client="ca-pub-2260202932541442"
+	     data-ad-slot="5892696605"></ins>
+	<script>
+	     (adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</dl>
 
 ## Taleo (or similar):
 
@@ -101,6 +119,19 @@ Please send any additions or report expired links to [me](mailto:placestoapply@c
 * [Target Software Engineering Intern](https://jobs.target.com/job/-/-/1118/8984961?utm_source=corporate%20-%20tas&utm_campaign=indeed.com&utm_medium=job_aggregator&utm_content=paid_search&ss=paid)
 * [Walmart Software Engineering Intern](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&noback=0&partnerid=25222&siteid=5022&jobid=1210863&codes=Indeed_Organic&utm_source=Indeed_Organic&utm_campaign=Walmart&utm_medium=AppFeeder&utm_term=Walmart%2Binternship&utm_content=Internship#jobDetails=1210863_5022)
 * [Wex Health Software Engineering Intern](https://wex.taleo.net/careersection/wex_wexinc/jobdetail.ftl?job=180000XG&lang=en)
+
+<dl>
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<ins class="adsbygoogle"
+	     style="display:block; text-align:center;"
+	     data-ad-layout="in-article"
+	     data-ad-format="fluid"
+	     data-ad-client="ca-pub-2260202932541442"
+	     data-ad-slot="5836856284"></ins>
+	<script>
+	     (adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</dl>
 
 *Applying everywhere is only effective if you're putting your best foot forward. Learn more about how to do that here: [https://github.com/cassidoo/getting-a-gig](https://github.com/cassidoo/getting-a-gig)
 Learn how to optimize your resume for online recruiting systems: [https://www.jobscan.co](https://www.jobscan.co)
