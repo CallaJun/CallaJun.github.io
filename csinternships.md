@@ -117,7 +117,6 @@ Please send any additions or report expired links to [me](mailto:placestoapply@c
 * [EA Sport Mobile - Software Engineer](https://ea.gr8people.com/index.gp?method=cappportal.showJob&layoutid=2092&inp1541=&opportunityid=152412&sid=https://www.google.com/)
 * [EA Sports - Graphics/Rendering Engineering](https://ea.gr8people.com/index.gp?method=cappportal.showJob&layoutid=2092&inp1541=&opportunityid=152828&sid=https://www.google.com/)
 * [EA Systems Software Engineer - Sports NBA](https://ea.gr8people.com/index.gp?method=cappportal.showJob&layoutid=2092&inp1541=&opportunityid=152410&sid=https://www.google.com/)
-* [Garmin Software Engineering Intern](https://garmin.taleo.net/careersection/2012_garmin_cr/jobdetail.ftl?job=18000UA&tz=GMT-04%3A00)
 * [JPMorgan Software Engineering Intern](https://jpmchase.taleo.net/careersection/10140/jobdetail.ftl?job=180068843)
 * [NetApp Software Engineering Intern and QA](https://jobs.netapp.com/job/Cranberry-Township-Intern-Software-&-QA-Engineer-OH/503482400/?jobPipeline=Indeed)
 * [Novartis Software Engineering Intern](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=13617&siteid=5268&PageType=JobDetails&jobid=2582003&frmSiteId=5260&codes=IND#jobDetails=2582003_5268)
