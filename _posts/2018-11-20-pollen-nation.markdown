@@ -2,11 +2,11 @@
 title: "Pollen Nation"
 layout: post
 date: 2018-11-20 12:00
-tag: games
+tag: game
 image: /../assets/images/pollennation1.png
 headerImage: true
 projects: true
-hidden: true # don't count this post in blog pagination
+hidden: false # don't count this post in blog pagination
 description: "Pollen Nation is an asymmetrical, virtual reality and controller-driven game."
 category: project
 author: callacarter

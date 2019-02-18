@@ -2,11 +2,11 @@
 title: "The Other Way"
 layout: post
 date: 2018-10-20 12:00
-tag: games
+tag: game
 image: /../assets/images/otherway_thumbnail.png
 headerImage: true
 projects: true
-hidden: true # don't count this post in blog pagination
+hidden: false # don't count this post in blog pagination
 description: "The Other Way is a virtual reality bicycling experience built for the HTC Vive."
 category: project
 author: callacarter

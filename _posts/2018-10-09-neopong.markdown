@@ -2,11 +2,11 @@
 title: "Neopong"
 layout: post
 date: 2018-10-09 12:00
-tag: games
+tag: game
 image: /../assets/images/neopong_thumbnail.png
 headerImage: true
 projects: true
-hidden: true # don't count this post in blog pagination
+hidden: false # don't count this post in blog pagination
 description: "Neopong is a physically demanding hybrid of games like Pong and Breakout built on the Kinect."
 category: project
 author: callacarter

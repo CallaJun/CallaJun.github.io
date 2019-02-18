@@ -1,0 +1,18 @@
+---
+title: "To the Top!"
+layout: post
+date: 2019-02-06 12:00
+tag: game
+image: /../assets/images/tothetop_thumbnail.png
+headerImage: true
+projects: true
+hidden: false # don't count this post in blog pagination
+description: "Addled is an arithmetic strategic tapping game for mobile."
+category: project
+author: callacarter
+externalLink: false
+---
+
+To the Top! is a hyper-casual game that requires you to use your dexterity and strategy to aim and shoot the ball to the top before the time runs out, avoiding all obstacles in its path!
+
+Each level presents a new set of obstacles - both stationary and moving - and 30 seconds in which to overcome them. Accumulate more points by completing the level as fast as you can. An astute player will use those obstacles to work for them rather against them and bounce the ball against them to define a path to the top.

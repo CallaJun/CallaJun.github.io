@@ -1,0 +1,22 @@
+---
+title: "Addled"
+layout: post
+date: 2019-02-06 12:00
+tag: game
+image: /../assets/images/addled_thumbnail.png
+headerImage: true
+projects: true
+hidden: false # don't count this post in blog pagination
+description: "Addled is an arithmetic strategic tapping game for mobile."
+category: project
+author: callacarter
+externalLink: false
+---
+
+Addled is an exciting game that's easy to play, but difficult to master. An arithmetic strategic addition to the hyper-casual market, Addled takes Flappy Bird mechanics to a new level.
+
+Tap the screen to stay afloat as you clash with other orbs to absorb their values, both positive and negative. The higher your value. Clash with as many orbs as you can without letting your value fall below zero!
+
+<dl>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/DhrZ0VjFcNs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</dl>

@@ -6,7 +6,7 @@ tag: web
 image: /../assets/images/poissyprocessional_thumbnail.jpg
 headerImage: true
 projects: true
-hidden: true # don't count this post in blog pagination
+hidden: false # don't count this post in blog pagination
 description: "A pedagogical, interactive website to make a late-medieval transcript accessible to archeological and literary communities"
 category: project
 author: callacarter
