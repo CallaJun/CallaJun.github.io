@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://drive.google.com/file/d/0B133aFvaEEo-amEwLXY4VEdfWnc/view
 
-url: http://callacarter.com
+url: https://callacarter.com
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -30,7 +30,7 @@ twitter: callajune
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: callacarter
 # youtube: myyoutube
 # spotify: myspotify
 github: callajun
@@ -72,7 +72,7 @@ blog: true
 read-time: true
 
 # should future posts be included?
-future: true
+future: false
 
 # do you want to show the "tags" inside the posts?
 show-tags: true
