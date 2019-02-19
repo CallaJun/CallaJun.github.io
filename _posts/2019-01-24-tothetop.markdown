@@ -13,6 +13,31 @@ author: callacarter
 externalLink: false
 ---
 
+<dl>
+	<img align="right" style="margin-left: 1%;" width="30%" src="/../assets/images/tothetop1.png">
+</dl>
+
 To the Top! is a hyper-casual game that requires you to use your dexterity and strategy to aim and shoot the ball to the top before the time runs out, avoiding all obstacles in its path!
 
 Each level presents a new set of obstacles - both stationary and moving - and 30 seconds in which to overcome them. Accumulate more points by completing the level as fast as you can. An astute player will use those obstacles to work for them rather against them and bounce the ball against them to define a path to the top.
+
+It is published on the [Apple App Store for iOS](https://itunes.apple.com/us/app/to-the-top/id1450360358) and on the [Google Play Store for Android](https://play.google.com/store/apps/details?id=com.Cloversea.ToTheTop).
+
+___
+
+### Design
+
+The game went through several iterations during its flow and visual design. The main mechanism remained consistent since the beginning: a strategic game in which a player would aim a ball around various obstacles over the course of several levels.
+
+A timer of 30 seconds per level was established. The game ends when a player fails to complete a level within the time set. To encourage a sense of urgency, points are awarded based on the number of seconds left when a level is completed. 
+
+<dl>
+	<img align="left" style="margin-right: 2%;" width="30%" src="/../assets/images/tothetop2.png">
+</dl> 
+
+The arrow was designed to be unobtrusive and intuitive. When the player enters a level, the arrow stands in the middle of the screen. The ball only appears when the player touches the screen. 
+
+The arrow then follows the direction of the touch position, allowing the player to aim. Once the player removes their finger from the screen, the ball is released in the correct direction. 
+
+All visuals are flat and 2D. Obstacles are neon and all else are an off-white color. Originally, obstacles were sharp-edged - perfect squares or rectangles. Rounded obstacles gave the game a softer look and prevented the ball from bouncing horizontally. 
+
