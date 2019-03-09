@@ -2,7 +2,9 @@
 title: "Neopong"
 layout: post
 date: 2018-10-09 12:00
-tag: game
+tag: 
+- game
+- kinect
 image: /../assets/images/neopong_thumbnail.png
 headerImage: true
 projects: true

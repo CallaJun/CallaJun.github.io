@@ -2,7 +2,9 @@
 title: "To the Top!"
 layout: post
 date: 2019-02-06 12:00
-tag: game
+tag: 
+- game
+- mobile
 image: /../assets/images/tothetop_thumbnail.png
 headerImage: true
 projects: true

@@ -2,7 +2,9 @@
 title: "SpaceFd"
 layout: post
 date: 2018-09-18 12:00
-tag: game
+tag: 
+- game
+- vr
 image: /../assets/images/spacefd_thumbnail.png
 headerImage: true
 projects: true

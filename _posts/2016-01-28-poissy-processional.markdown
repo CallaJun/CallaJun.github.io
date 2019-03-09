@@ -2,7 +2,8 @@
 title: "Poissy Processional"
 layout: post
 date: 2016-01-28 12:00
-tag: web
+tag: 
+- web
 image: /../assets/images/poissyprocessional_thumbnail.jpg
 headerImage: true
 projects: true

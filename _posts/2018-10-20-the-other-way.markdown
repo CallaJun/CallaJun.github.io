@@ -2,7 +2,9 @@
 title: "The Other Way"
 layout: post
 date: 2018-10-20 12:00
-tag: game
+tag: 
+- game
+- vr
 image: /../assets/images/otherway_thumbnail.png
 headerImage: true
 projects: true
