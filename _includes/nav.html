@@ -6,7 +6,8 @@
             </li>
         {% endif %}
 
-        {% if site.about == true %}
+        <!--To show again, change below to true-->
+        {% if site.about == false %}
             {% if page.title != "About" %}
                 <li class="item">
                     <a class="link" href="{{ site.url }}/about">About</a>
@@ -14,7 +15,8 @@
             {% endif %}
         {% endif %}
 
-        {% if site.projects == true %}
+        <!--To show again, change below to true-->
+        {% if site.projects == false %}
             {% if page.title != "Projects" %}
                 <li class="item">
                     <a class="link" href="{{ site.url }}/projects">Projects</a>
@@ -22,7 +24,8 @@
             {% endif %}
         {% endif %}
 
-        {% if site.blog == true %}
+        <!--To show again, change below to true-->
+        {% if site.blog == false %}
             {% if page.title != "Blog" %}
                 <li class="item">
                     <a class="link" href="{{ site.url }}/blog">Blog</a>
