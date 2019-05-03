@@ -93,13 +93,18 @@ Find more places to apply [here](/csinternships).
   - [Amazon Future Engineer](https://www.amazon.jobs/en/landing_pages/amazonfutureengineer)
   - [Bank of America Global Technology Analyst Program](https://campus.bankofamerica.com/careers/Global-Technology-Freshman-Summer-Analyst-Program-US.html)
   - Google Engineering Practicum
+  - Dropbox Launch
   - [Explore Microsoft](https://careers.microsoft.com/us/en/usexploremicrosoftprogram)
   - [Facebook University for Engineering](https://www.facebook.com/careers/students-and-grads/students)
+  - UberSTAR Internship
 - Freshman Friendly
+  - General Mills
+  - [Johns Hopkins APL](https://www.jhuapl.edu/Careers/CollegeInternships)
   - [SendGrid](https://squareup.com/careers/university)
   - [National Security Agency](https://www.nsa.gov/psp/applyonline/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_SCHJOB&Action=U&FOCUS=Applicant&SiteId=1)
   - [Fidelity](#)
 - Advanced Freshmen
+  - Apple
   - [Bloomberg](https://careers.bloomberg.com/job/detail/68834)
   - [Yelp](https://www.yelp.com/careers/job-openings?keywords=&team=college-engineering&location=all)
 
