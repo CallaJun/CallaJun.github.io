@@ -109,7 +109,8 @@ Find more places to apply [here](/csinternships).
   - [Creddle.io](http://creddle.io) Format your resume
   - [Jobscan](https://www.jobscan.co) Get past resumé reading robots
 - Technical Interviews
-  - [Interviewing.io](https://interviewing.io) Free mock interviews with real interviewers
+  - [InterviewBit](https://www.interviewbit.com/invite/gbjcc) Technical interview practice problems, guided practice
   - [LeetCode](https://leetcode.com) Technical interview practice problems
   - [LintCode](https://www.lintcode.com) Technical interview practice problems
   - [Pramp](https://www.pramp.com/#/) Free mock interviews with interviewers and fellow interviewees
+  - [Interviewing.io](https://interviewing.io) Free mock interviews with real interviewers
