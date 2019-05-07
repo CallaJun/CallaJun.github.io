@@ -40,7 +40,7 @@ Note: This page's content was largely stolen from [this site](http://automaticfu
 
 ### University of Alabama
 - Info
-  - Last verfied 6 August 2018
+  - Last verfied 7 May 2019
   - Available to international students/students in the US regardless of nationality
   - Application deadline: December 15
 - **Full Tuition + 1 Year of Housing + $8000 exp**
@@ -52,7 +52,7 @@ Note: This page's content was largely stolen from [this site](http://automaticfu
 
 ### University of Alabama - Huntsville
 - Info
-  - Last verified 6 August 2018
+  - Last verified 7 May 2019
   - Open to international students/students in the US regardless of nationality
 - **Full Tuition + Housing**
   - [4.0 GPA, 34 ACT or 1520 SAT](https://www.uah.edu/admissions/undergraduate/financial-aid/scholarships/merit-tuition-scholarships)
@@ -61,12 +61,12 @@ Note: This page's content was largely stolen from [this site](http://automaticfu
 
 ### University of Alabama - Birmingham
 - Info
-  - Last verified 6 August 2018
+  - Last verified 7 May 2019
   - Application deadline: December 1
 - **Full Tuition**
   - [In-State: 3.5 GPA and 30 ACT](http://www.uab.edu/students/paying-for-college/scholarships/act-gpa-based-scholarships-alabama-residents)
 - **$15,000/year (Full tuition for up to 25 credits per year)** 
-  - [Out-of-State: 3.5 GPA, 30 ACT or 1390 SAT](https://www.uah.edu/admissions/undergraduate/financial-aid/scholarships/merit-tuition-scholarships)
+  - [Out-of-State: 3.5 GPA, 30 ACT or 1390 SAT](https://www.uab.edu/students/paying-for-college/scholarships/act-gpa-based-scholarships-out-of-state)
 
 ### Tuskegee University
 - Info
