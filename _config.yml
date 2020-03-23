@@ -1,5 +1,5 @@
 # main text of home
-name: 
+name: Calla Carter
 bio: 
 
 # twitter summary info
@@ -17,7 +17,6 @@ resume-external: true
 resume-url: https://drive.google.com/file/d/0B133aFvaEEo-amEwLXY4VEdfWnc/view
 
 url: https://callacarter.com
-# your url: http://USERNAME.github.io
 
 permalink: /:title/
 
@@ -26,7 +25,7 @@ analytics-google: 'UA-40911773-4'
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: callajune
+# twitter: callajune
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
