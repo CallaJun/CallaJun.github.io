@@ -1,5 +1,5 @@
 # main text of home
-name: Calla Carter
+name: # Calla Carter
 bio: 
 
 # twitter summary info
@@ -8,7 +8,7 @@ description:
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.png
+picture: assets/images/profile-w.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -29,10 +29,10 @@ analytics-google: 'UA-40911773-4'
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: callacarter
+# linkedin: callacarter
 # youtube: myyoutube
 # spotify: myspotify
-github: callajun
+# github: callajun
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -41,14 +41,14 @@ github: callajun
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: calla@callacarter.com
+# email: calla@callacarter.com
 
 authors:
     callacarter:
         name: Calla Carter
         bio: 
         external-image: false
-        picture: assets/images/profile.png
+        picture: assets/images/profile-w.png
         twitter: callajune
 
 # do you want a larger site? change the option below
