@@ -23,8 +23,6 @@ To the Top! is a hyper-casual game that requires you to use your dexterity and s
 
 Each level presents a new set of obstacles - both stationary and moving - and 30 seconds in which to overcome them. Accumulate more points by completing the level as fast as you can. An astute player will use those obstacles to work for them rather against them and bounce the ball against them to define a path to the top.
 
-It is published on the [Apple App Store for iOS](https://itunes.apple.com/us/app/to-the-top/id1450360358) and on the [Google Play Store for Android](https://play.google.com/store/apps/details?id=com.Cloversea.ToTheTop).
-
 ___
 
 ### Design

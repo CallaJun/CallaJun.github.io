@@ -19,8 +19,6 @@ Addled is an exciting game that's easy to play, but difficult to master. An arit
 
 Tap the screen to stay afloat as you clash with other orbs to absorb their values, both positive and negative. The higher your value. Clash with as many orbs as you can without letting your value fall below zero.
 
-It is published on the [Apple App Store for iOS](https://itunes.apple.com/us/app/addled/id1451040993) and on the [Google Play Store for Android](https://play.google.com/store/apps/details?id=com.Cloversea.Addled).
-
 <dl>
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/DhrZ0VjFcNs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </dl>
