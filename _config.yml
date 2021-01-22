@@ -32,7 +32,7 @@ analytics-google: 'UA-40911773-4'
 # linkedin: callacarter
 # youtube: myyoutube
 # spotify: myspotify
-# github: callajun
+github: callajune
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -41,7 +41,7 @@ analytics-google: 'UA-40911773-4'
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-# email: calla@callacarter.com
+email: calla@callacarter.com
 
 authors:
     callacarter:
