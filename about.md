@@ -1,5 +1,6 @@
 ---
-title: About
 layout: page
+title: About
+permalink: /about/
+# Reference variables in config like {{ site.author }}
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})

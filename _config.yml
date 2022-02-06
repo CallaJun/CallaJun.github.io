@@ -1,99 +1,24 @@
-# main text of home
-name: # Calla Carter
-bio: 
+title: Hello. # name of the site
+author: # name of site's author
+email: # email of site's author
+url: # root address of the site
+baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+description: > # description of the site (multiple lines allowed)
+  
+permalink: /:slug.html
 
-# twitter summary info
-description: 
+favicon: "" # name+extension of favicon (which must be put on the root folder)
 
-# if it's an external image, update below for true
-# better with square images
-external-image: false
-picture: assets/images/profile_w.png
+theme: no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please, otherwise, no-style-please
 
-# If you want to include your resume, set to true
-# and specify source (external or local).
-resume: true
-resume-external: true
-resume-url: https://drive.google.com/file/d/0B133aFvaEEo-amEwLXY4VEdfWnc/view
+theme_config:
+  appearance: "auto" # can be "light", "dark" or "auto"
+  back_home_text: ".." # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: false # show blog description in home page
 
-url: https://callacarter.com
-
-permalink: /:title/
-
-# To enable google analytics, supply your token below
-analytics-google: 'UA-40911773-4'
-
-# if you don't have any of social below, comment the line
-# facebook: myfacebook
-# twitter: callajune
-# google: mygoogle
-# instagram: myinstagram
-# pinterest: mypinterest
-# linkedin: callacarter
-# youtube: myyoutube
-# spotify: myspotify
-github: callajune
-# gitlab: mygitlab
-# lastfm: mylastfm
-# stackoverflow: 7044681/mystackoverflow
-# quora: userquora
-# reddit: username
-# medium: medium
-# vimeo: myvimeo
-# lanyrd: mylanyrd
-email: calla@callacarter.com
-
-authors:
-    callacarter:
-        name: Calla Carter
-        bio: 
-        external-image: false
-        picture: assets/images/profile.png
-        twitter: callajune
-
-# do you want a larger site? change the option below
-# options: [normal, large] | default: normal
-# normal = 560px / large = 810px
-width: normal
-
-# if you don't need pagination, comment the *paginate* configs below
-# paginate: 5
-# paginate_path: "blog/:num/"
-
-# if you don't need projects, comment the *projects* configs below
-projects: true
-
-# if you don't need "about" or "blog", comment them out below
-about: true
-blog: true
-
-# do you want to show the "read time" of the posts?
-read-time: true
-
-# should future posts be included?
-future: false
-
-# do you want to show the "tags" inside the posts?
-show-tags: true
-
-# related posts inside a post?
-related: true
-
-# Display links for next and previous posts for the specified categories
-post-advance-links: [blog]
-
-# show author block at the end of a post ?
-show-author: true
-
-# do you want some animations?
-animation: true
+sass:
+  style: :compressed
 
 plugins:
-  - jekyll-seo-tag
-  - jekyll-gist
   - jekyll-feed
-  - jemoji
-  - jekyll-admin
-
-jekyll-mentions:
-    base_url: https://github.com
