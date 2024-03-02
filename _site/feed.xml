@@ -1,246 +1,246 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-02-05T21:02:09-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Hello.</title><subtitle></subtitle><author><name>Riccardo Graziosi</name></author><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-02-05T19:55:33-05:00</published><updated>2022-02-05T19:55:33-05:00</updated><id>http://localhost:4000/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-02T11:15:31-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Hello.</title><subtitle></subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-02-05T19:55:33-05:00</published><updated>2022-02-05T19:55:33-05:00</updated><id>http://localhost:4000/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
-<p>Jekyll requires blog post files to be named according to the following format:</p>
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
 
-<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
 
-<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
-<p>Jekyll also offers powerful support for code snippets:</p>
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
 
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;Tom&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &apos;Hi, Tom&apos; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name>Riccardo Graziosi</name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated. Jekyll requires blog post files to be named according to the following format: YEAR-MONTH-DAY-title.MARKUP Where YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and MARKUP is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works. Jekyll also offers powerful support for code snippets: def print_hi(name) puts "Hi, #{name}" end print_hi('Tom') #=&gt; prints 'Hi, Tom' to STDOUT. Check out the Jekyll docs for more info on how to get the most out of Jekyll. File all bugs/feature requests at Jekyll’s GitHub repo. If you have questions, you can ask them on Jekyll Talk.]]></summary></entry><entry><title type="html">Addled</title><link href="http://localhost:4000/addled.html" rel="alternate" type="text/html" title="Addled" /><published>2019-02-06T12:00:00-05:00</published><updated>2019-02-06T12:00:00-05:00</updated><id>http://localhost:4000/addled</id><content type="html" xml:base="http://localhost:4000/addled.html"><![CDATA[<p>Addled is an exciting game that’s easy to play, but difficult to master. An arithmetic strategic addition to the hyper-casual market, Addled takes tapping mechanics to a new level.</p>
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated. Jekyll requires blog post files to be named according to the following format: YEAR-MONTH-DAY-title.MARKUP Where YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and MARKUP is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works. Jekyll also offers powerful support for code snippets: def print_hi(name) puts &quot;Hi, #{name}&quot; end print_hi(&apos;Tom&apos;) #=&amp;gt; prints &apos;Hi, Tom&apos; to STDOUT. Check out the Jekyll docs for more info on how to get the most out of Jekyll. File all bugs/feature requests at Jekyll’s GitHub repo. If you have questions, you can ask them on Jekyll Talk.</summary></entry><entry><title type="html">Addled</title><link href="http://localhost:4000/addled.html" rel="alternate" type="text/html" title="Addled" /><published>2019-02-06T12:00:00-05:00</published><updated>2019-02-06T12:00:00-05:00</updated><id>http://localhost:4000/addled</id><content type="html" xml:base="http://localhost:4000/addled.html">&lt;p&gt;Addled is an exciting game that’s easy to play, but difficult to master. An arithmetic strategic addition to the hyper-casual market, Addled takes tapping mechanics to a new level.&lt;/p&gt;
 
-<p>Tap the screen to stay afloat as you clash with other orbs to absorb their values, both positive and negative. The higher your value. Clash with as many orbs as you can without letting your value fall below zero.</p>
+&lt;p&gt;Tap the screen to stay afloat as you clash with other orbs to absorb their values, both positive and negative. The higher your value. Clash with as many orbs as you can without letting your value fall below zero.&lt;/p&gt;
 
-<dl>
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/DhrZ0VjFcNs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-</dl>
+&lt;dl&gt;
+	&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/DhrZ0VjFcNs&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/dl&gt;
 
-<hr />]]></content><author><name>callacarter</name></author><category term="project" /><category term="game" /><category term="mobile" /><summary type="html"><![CDATA[Addled is an arithmetic strategic tapping game for mobile.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/addled_thumbnail.png" /><media:content medium="image" url="http://localhost:4000/assets/images/addled_thumbnail.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">To the Top!</title><link href="http://localhost:4000/tothetop.html" rel="alternate" type="text/html" title="To the Top!" /><published>2019-02-06T12:00:00-05:00</published><updated>2019-02-06T12:00:00-05:00</updated><id>http://localhost:4000/tothetop</id><content type="html" xml:base="http://localhost:4000/tothetop.html"><![CDATA[<dl>
-	<img align="right" style="margin-left: 1%;" width="30%" src="/../assets/images/tothetop1.png" />
-</dl>
+&lt;hr /&gt;</content><author><name>callacarter</name></author><category term="project" /><category term="game" /><category term="mobile" /><summary type="html">Addled is an exciting game that’s easy to play, but difficult to master. An arithmetic strategic addition to the hyper-casual market, Addled takes tapping mechanics to a new level.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/addled_thumbnail.png" /><media:content medium="image" url="http://localhost:4000/assets/images/addled_thumbnail.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">To the Top!</title><link href="http://localhost:4000/tothetop.html" rel="alternate" type="text/html" title="To the Top!" /><published>2019-02-06T12:00:00-05:00</published><updated>2019-02-06T12:00:00-05:00</updated><id>http://localhost:4000/tothetop</id><content type="html" xml:base="http://localhost:4000/tothetop.html">&lt;dl&gt;
+	&lt;img align=&quot;right&quot; style=&quot;margin-left: 1%;&quot; width=&quot;30%&quot; src=&quot;/../assets/images/tothetop1.png&quot; /&gt;
+&lt;/dl&gt;
 
-<p>To the Top! is a hyper-casual game that requires you to use your dexterity and strategy to aim and shoot the ball to the top before the time runs out, avoiding all obstacles in its path!</p>
+&lt;p&gt;To the Top! is a hyper-casual game that requires you to use your dexterity and strategy to aim and shoot the ball to the top before the time runs out, avoiding all obstacles in its path!&lt;/p&gt;
 
-<p>Each level presents a new set of obstacles - both stationary and moving - and 30 seconds in which to overcome them. Accumulate more points by completing the level as fast as you can. An astute player will use those obstacles to work for them rather against them and bounce the ball against them to define a path to the top.</p>
+&lt;p&gt;Each level presents a new set of obstacles - both stationary and moving - and 30 seconds in which to overcome them. Accumulate more points by completing the level as fast as you can. An astute player will use those obstacles to work for them rather against them and bounce the ball against them to define a path to the top.&lt;/p&gt;
 
-<hr />
+&lt;hr /&gt;
 
-<h3 id="design">Design</h3>
+&lt;h3 id=&quot;design&quot;&gt;Design&lt;/h3&gt;
 
-<p>The game went through several iterations during its flow and visual design. The main mechanism remained consistent since the beginning: a strategic game in which a player would aim a ball around various obstacles over the course of several levels.</p>
+&lt;p&gt;The game went through several iterations during its flow and visual design. The main mechanism remained consistent since the beginning: a strategic game in which a player would aim a ball around various obstacles over the course of several levels.&lt;/p&gt;
 
-<p>A timer of 30 seconds per level was established. The game ends when a player fails to complete a level within the time set. To encourage a sense of urgency, points are awarded based on the number of seconds left when a level is completed.</p>
+&lt;p&gt;A timer of 30 seconds per level was established. The game ends when a player fails to complete a level within the time set. To encourage a sense of urgency, points are awarded based on the number of seconds left when a level is completed.&lt;/p&gt;
 
-<dl>
-	<img align="left" style="margin-right: 2%;" width="30%" src="/../assets/images/tothetop2.png" />
-</dl>
+&lt;dl&gt;
+	&lt;img align=&quot;left&quot; style=&quot;margin-right: 2%;&quot; width=&quot;30%&quot; src=&quot;/../assets/images/tothetop2.png&quot; /&gt;
+&lt;/dl&gt;
 
-<p>The arrow was designed to be unobtrusive and intuitive. When the player enters a level, the arrow stands in the middle of the screen. The ball only appears when the player touches the screen.</p>
+&lt;p&gt;The arrow was designed to be unobtrusive and intuitive. When the player enters a level, the arrow stands in the middle of the screen. The ball only appears when the player touches the screen.&lt;/p&gt;
 
-<p>The arrow then follows the direction of the touch position, allowing the player to aim. Once the player removes their finger from the screen, the ball is released in the correct direction.</p>
+&lt;p&gt;The arrow then follows the direction of the touch position, allowing the player to aim. Once the player removes their finger from the screen, the ball is released in the correct direction.&lt;/p&gt;
 
-<p>All visuals are flat and 2D. Obstacles are neon and all else are an off-white color. Originally, obstacles were sharp-edged - perfect squares or rectangles. Rounded obstacles gave the game a softer look and prevented the ball from bouncing horizontally.</p>]]></content><author><name>callacarter</name></author><category term="project" /><category term="game" /><category term="mobile" /><summary type="html"><![CDATA[Addled is an arithmetic strategic tapping game for mobile.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/tothetop_thumbnail.png" /><media:content medium="image" url="http://localhost:4000/assets/images/tothetop_thumbnail.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Pollen Nation</title><link href="http://localhost:4000/pollen-nation.html" rel="alternate" type="text/html" title="Pollen Nation" /><published>2018-11-20T12:00:00-05:00</published><updated>2018-11-20T12:00:00-05:00</updated><id>http://localhost:4000/pollen-nation</id><content type="html" xml:base="http://localhost:4000/pollen-nation.html"><![CDATA[<p>Pollen Nation is an asymmetrical, multiplayer, virtual reality (VR) and controller-driven game built for the HTC Vive and PC. I worked as a game designer and programmer on a team of five to design and develop it in three weeks.</p>
+&lt;p&gt;All visuals are flat and 2D. Obstacles are neon and all else are an off-white color. Originally, obstacles were sharp-edged - perfect squares or rectangles. Rounded obstacles gave the game a softer look and prevented the ball from bouncing horizontally.&lt;/p&gt;</content><author><name>callacarter</name></author><category term="project" /><category term="game" /><category term="mobile" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/tothetop_thumbnail.png" /><media:content medium="image" url="http://localhost:4000/assets/images/tothetop_thumbnail.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Pollen Nation</title><link href="http://localhost:4000/pollen-nation.html" rel="alternate" type="text/html" title="Pollen Nation" /><published>2018-11-20T12:00:00-05:00</published><updated>2018-11-20T12:00:00-05:00</updated><id>http://localhost:4000/pollen-nation</id><content type="html" xml:base="http://localhost:4000/pollen-nation.html">&lt;p&gt;Pollen Nation is an asymmetrical, multiplayer, virtual reality (VR) and controller-driven game built for the HTC Vive and PC. I worked as a game designer and programmer on a team of five to design and develop it in three weeks.&lt;/p&gt;
 
-<ul>
-  <li>Personal Contributions
-    <ul>
-      <li>Worked on an interdisciplinary team to design and develop an asymmetrical, multiplayer game for VR and PC</li>
-      <li>Developed the game in C# in the Unity Game Engine with another programmer</li>
-      <li>Wrote scripts to handle character controls and behavior</li>
-      <li>Wrote game controller which orchestrated the sequence of events throughout the experience</li>
-    </ul>
-  </li>
-</ul>
+&lt;ul&gt;
+  &lt;li&gt;Personal Contributions
+    &lt;ul&gt;
+      &lt;li&gt;Worked on an interdisciplinary team to design and develop an asymmetrical, multiplayer game for VR and PC&lt;/li&gt;
+      &lt;li&gt;Developed the game in C# in the Unity Game Engine with another programmer&lt;/li&gt;
+      &lt;li&gt;Wrote scripts to handle character controls and behavior&lt;/li&gt;
+      &lt;li&gt;Wrote game controller which orchestrated the sequence of events throughout the experience&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-<p>It’s the Kentucky Derby of the bug world. A praying mantis, embodied by a player in a VR headset, takes on three bees, controlled by three Xbox controller players. The bees’ goal is to work together to pollinate all of the flowers in the arena before the timer reaches zero, and the mantis’s goal is to stop them. At the mantis’s disposal are magical Venus flytrap seeds that can be thrown to slow the bees down.</p>
+&lt;p&gt;It’s the Kentucky Derby of the bug world. A praying mantis, embodied by a player in a VR headset, takes on three bees, controlled by three Xbox controller players. The bees’ goal is to work together to pollinate all of the flowers in the arena before the timer reaches zero, and the mantis’s goal is to stop them. At the mantis’s disposal are magical Venus flytrap seeds that can be thrown to slow the bees down.&lt;/p&gt;
 
-<dl>
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/Aw_DF2T4vqU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-</dl>
+&lt;dl&gt;
+	&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Aw_DF2T4vqU&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/dl&gt;
 
-<hr />
+&lt;hr /&gt;
 
-<h3 id="design">Design</h3>
-<p>The team went through multiple iterations informed by prototypes and playtests before we reached our final product. From the beginning, we set out to design an asymmetrical game with one player in a VR headset and <em>n</em> players using Xbox controllers.</p>
+&lt;h3 id=&quot;design&quot;&gt;Design&lt;/h3&gt;
+&lt;p&gt;The team went through multiple iterations informed by prototypes and playtests before we reached our final product. From the beginning, we set out to design an asymmetrical game with one player in a VR headset and &lt;em&gt;n&lt;/em&gt; players using Xbox controllers.&lt;/p&gt;
 
-<h4 id="stage-1-ideation--prototyping">Stage 1: Ideation &amp; Prototyping</h4>
-<dl>
-	<img width="50%" align="right" src="/../assets/images/pollennation2.jpeg" />
-</dl>
-<p>From boxing worlds and angry mobs to a praying mantis a riding circus phoenix to escape an evil ringmaster, we explored many different worlds before arriving at a mantis versus bees pollination experience.</p>
+&lt;h4 id=&quot;stage-1-ideation--prototyping&quot;&gt;Stage 1: Ideation &amp;amp; Prototyping&lt;/h4&gt;
+&lt;dl&gt;
+	&lt;img width=&quot;50%&quot; align=&quot;right&quot; src=&quot;/../assets/images/pollennation2.jpeg&quot; /&gt;
+&lt;/dl&gt;
+&lt;p&gt;From boxing worlds and angry mobs to a praying mantis a riding circus phoenix to escape an evil ringmaster, we explored many different worlds before arriving at a mantis versus bees pollination experience.&lt;/p&gt;
 
-<p>Most of our original ideas involved a stationary VR player riding and controlling a flying animal with a fire-emitting tail while fending off a mob of angry bees’ stings by punching and shielding. We removed the player’s control of the flying animal early on in fear that the multitasking would be too overwhelming. We soon determined that the bird - or whichever object on which our VR player would stand - must be stationary for two reasons:</p>
+&lt;p&gt;Most of our original ideas involved a stationary VR player riding and controlling a flying animal with a fire-emitting tail while fending off a mob of angry bees’ stings by punching and shielding. We removed the player’s control of the flying animal early on in fear that the multitasking would be too overwhelming. We soon determined that the bird - or whichever object on which our VR player would stand - must be stationary for two reasons:&lt;/p&gt;
 
-<ol>
-  <li>We did not intend for speed to be one of the bees’ challenges, so a flying bird would not enhance the the bees’ experiences. Since the bees ejected stingers from behind, it was awkward for them to fly in front of a moving object (the bees could not sting from behind or they would be killed by the bird/phoenix’s fire-emitting tail).</li>
-  <li>With diverted attention and no control over the flying object, the VR player might become overwhelmed and motion sick.</li>
-</ol>
+&lt;ol&gt;
+  &lt;li&gt;We did not intend for speed to be one of the bees’ challenges, so a flying bird would not enhance the the bees’ experiences. Since the bees ejected stingers from behind, it was awkward for them to fly in front of a moving object (the bees could not sting from behind or they would be killed by the bird/phoenix’s fire-emitting tail).&lt;/li&gt;
+  &lt;li&gt;With diverted attention and no control over the flying object, the VR player might become overwhelmed and motion sick.&lt;/li&gt;
+&lt;/ol&gt;
 
-<p>To answer the question “Why bees?” we gave the bees a pollination mechanism. Our initial prototype stood a mantis magician at a circus at the center of an arena, on top of a large flower.</p>
+&lt;p&gt;To answer the question “Why bees?” we gave the bees a pollination mechanism. Our initial prototype stood a mantis magician at a circus at the center of an arena, on top of a large flower.&lt;/p&gt;
 
-<dl>
-	<img align="right" src="/../assets/images/pollennation3.png" />
-</dl>
+&lt;dl&gt;
+	&lt;img align=&quot;right&quot; src=&quot;/../assets/images/pollennation3.png&quot; /&gt;
+&lt;/dl&gt;
 
-<p>The mantis’s goal was to pull various objects - venus flytraps, random household items, rabbits - out of a magician’s hat and throw them at the bees to decrement their health, and the bees’ stung the mantis by ejecting stingers and launching them to decrement the mantis’s health. The game ended in three cases:</p>
+&lt;p&gt;The mantis’s goal was to pull various objects - venus flytraps, random household items, rabbits - out of a magician’s hat and throw them at the bees to decrement their health, and the bees’ stung the mantis by ejecting stingers and launching them to decrement the mantis’s health. The game ended in three cases:&lt;/p&gt;
 
-<ol>
-  <li>All of the bees were dead (mantis victory).</li>
-  <li>The bees fully pollinated the flower (bees victory).</li>
-  <li>The mantis lost all health (bees victory).</li>
-</ol>
+&lt;ol&gt;
+  &lt;li&gt;All of the bees were dead (mantis victory).&lt;/li&gt;
+  &lt;li&gt;The bees fully pollinated the flower (bees victory).&lt;/li&gt;
+  &lt;li&gt;The mantis lost all health (bees victory).&lt;/li&gt;
+&lt;/ol&gt;
 
-<h4 id="stage-2-reeling-it-in">Stage 2: Reeling It In</h4>
-<dl>
-	<img width="50%" align="right" src="/../assets/images/pollennation4.png" />
-</dl>
-<p>A round of playtesting confirmed our suspicions - the game was simply too <em>much</em>. The mantis was overwhelmed by the bees flying toward it, the bees were easily subdued by the mantis’s many objects, and there was no clear strategy on either side. However, feedback showed that players were intrigued by the asymmetrical nature of the game and enjoyed the mechanisms (throwing, pollinating, flying).</p>
+&lt;h4 id=&quot;stage-2-reeling-it-in&quot;&gt;Stage 2: Reeling It In&lt;/h4&gt;
+&lt;dl&gt;
+	&lt;img width=&quot;50%&quot; align=&quot;right&quot; src=&quot;/../assets/images/pollennation4.png&quot; /&gt;
+&lt;/dl&gt;
+&lt;p&gt;A round of playtesting confirmed our suspicions - the game was simply too &lt;em&gt;much&lt;/em&gt;. The mantis was overwhelmed by the bees flying toward it, the bees were easily subdued by the mantis’s many objects, and there was no clear strategy on either side. However, feedback showed that players were intrigued by the asymmetrical nature of the game and enjoyed the mechanisms (throwing, pollinating, flying).&lt;/p&gt;
 
-<p>We knew we needed to eliminate one of the bees’ objectives (two goals - pollinating the flower and killing the mantis - was too much). The question was which one. We chose the mechanism that we believed would be more immediately clear to new users: the stinging. It was a fight to the death between a mantis and several bees. Now, bees could regain health by pollinating the flower on which the mantis stood (and risking being attacked by the mantis).</p>
+&lt;p&gt;We knew we needed to eliminate one of the bees’ objectives (two goals - pollinating the flower and killing the mantis - was too much). The question was which one. We chose the mechanism that we believed would be more immediately clear to new users: the stinging. It was a fight to the death between a mantis and several bees. Now, bees could regain health by pollinating the flower on which the mantis stood (and risking being attacked by the mantis).&lt;/p&gt;
 
-<p>Playtests had revealed that when the pollination goal was made clear, many bees did not try to sting the mantis (aiming was difficult). We liked the pollination mechanism (it justified the bees’ existence, opened the door for satisfying haptic feedback on the Xbox controllers, and seemed more interesting), so we kept it and nixed the stinging mechanism.</p>
+&lt;p&gt;Playtests had revealed that when the pollination goal was made clear, many bees did not try to sting the mantis (aiming was difficult). We liked the pollination mechanism (it justified the bees’ existence, opened the door for satisfying haptic feedback on the Xbox controllers, and seemed more interesting), so we kept it and nixed the stinging mechanism.&lt;/p&gt;
 
-<dl>
-	<img width="50%" align="left" style="margin-right: 1%;" src="/../assets/images/pollennation7.png" />
-</dl>
+&lt;dl&gt;
+	&lt;img width=&quot;50%&quot; align=&quot;left&quot; style=&quot;margin-right: 1%;&quot; src=&quot;/../assets/images/pollennation7.png&quot; /&gt;
+&lt;/dl&gt;
 
-<p>To simplify the throwing mechanism and its place in the game, we eliminated all throwable objects but the Venus flytrap seed. We also changed the mantis from a magician - a remnant of the old circus theme - to a non-magical mantis with a magical seed bag.</p>
+&lt;p&gt;To simplify the throwing mechanism and its place in the game, we eliminated all throwable objects but the Venus flytrap seed. We also changed the mantis from a magician - a remnant of the old circus theme - to a non-magical mantis with a magical seed bag.&lt;/p&gt;
 
-<p>Subsequent playtests revealed that the game was still an overwhelming experience for both sides, so we made our most dramatic change and further limited the bees’ objectives. Rather than the mantis trying to kill the bees and vice versa, we changed the bees’ goal to pollinating the flower and avoiding being hit by the mantis’s Venus flytrap seeds (which reduced their health). Bees, in this iteration, could not regain health. The pollinating mechanism they once used to regain health now contributed to the flower’s total pollination, which was displayed on a bar at the bottom of the screen.</p>
+&lt;p&gt;Subsequent playtests revealed that the game was still an overwhelming experience for both sides, so we made our most dramatic change and further limited the bees’ objectives. Rather than the mantis trying to kill the bees and vice versa, we changed the bees’ goal to pollinating the flower and avoiding being hit by the mantis’s Venus flytrap seeds (which reduced their health). Bees, in this iteration, could not regain health. The pollinating mechanism they once used to regain health now contributed to the flower’s total pollination, which was displayed on a bar at the bottom of the screen.&lt;/p&gt;
 
-<p>After this change, playtesters playing as bees did not feel overwhelmed, but the mantis felt accosted whenever bees flew in the vicinity of the flower. When bees flew directly into the mantis, the authenticity of the VR experience was compromised because the mantis could not feel the bees.</p>
+&lt;p&gt;After this change, playtesters playing as bees did not feel overwhelmed, but the mantis felt accosted whenever bees flew in the vicinity of the flower. When bees flew directly into the mantis, the authenticity of the VR experience was compromised because the mantis could not feel the bees.&lt;/p&gt;
 
-<dl>
-	<img width="100%" align="right" src="/../assets/images/pollennation5.png" />
-</dl>
+&lt;dl&gt;
+	&lt;img width=&quot;100%&quot; align=&quot;right&quot; src=&quot;/../assets/images/pollennation5.png&quot; /&gt;
+&lt;/dl&gt;
 
-<p>We fixed this with a change of scenery. The mantis now stood on a teacup pedastal at the center of the arena and prevented bees from pollinating three flowers around the arena.</p>
+&lt;p&gt;We fixed this with a change of scenery. The mantis now stood on a teacup pedastal at the center of the arena and prevented bees from pollinating three flowers around the arena.&lt;/p&gt;
 
-<h4 id="stage-3-tweaking">Stage 3: Tweaking</h4>
-<p>At last, we had our game. Now, we had to adjust variables to balance the mantis and bees’ strength. Through multiple rounds of playtesting, we adjusted the following:</p>
+&lt;h4 id=&quot;stage-3-tweaking&quot;&gt;Stage 3: Tweaking&lt;/h4&gt;
+&lt;p&gt;At last, we had our game. Now, we had to adjust variables to balance the mantis and bees’ strength. Through multiple rounds of playtesting, we adjusted the following:&lt;/p&gt;
 
-<ul>
-  <li>The length of the game. We started at two minutes and after reducing it to 90 seconds, we decided that each game would include three one-minute rounds so that a new players on each side would develop strategies.</li>
-  <li>The length of time bees were trapped by Venus flytraps. When the game was two minutes long, the bees were trapped for 20 seconds. We wanted the bees to be trapped for long enough that they had an incentive to save each other.</li>
-</ul>
-<dl>
-	<img width="60%" style="margin-left: 1%;" align="right" src="/../assets/images/pollennation6.png" />
-</dl>
-<ul>
-  <li>The ratio of bees to flowers. We played around with more and less bees and flowers, but settled on three and three. Playtests had shown that with this arrangement, of the three rounds each side won 2 to 1 roughly 50% of the time. The three flower technique created a climax in the game’s interest curve. During the pollination of the first two flowers, generally, the bees split up and the mantis’s attention was divided. By the time only the third flower was left, generally in the last seconds of the game, the mantis was only focusing on one flower, which the bees needed to pollinate.</li>
-</ul>
-
-<p>Finally, we playtested tutorial images that were concise and gave players of many gaming experience levels enough information to succeed in the game.</p>
-
-<dl>
-	<img width="70%" src="/../assets/images/pollennation8.gif" />
-	<img width="100%" src="/../assets/images/pollennation9.gif" />
-	<img width="100%" src="/../assets/images/pollennation10.gif" />
-</dl>
-
-<hr />
-
-<h3 id="engineering">Engineering</h3>
-
-<hr />
-
-<h3 id="team">Team</h3>
-<ul>
-  <li><a href="https://chiachiaurorakingdom.weebly.com/portfolio.html">Chia-chi Chang</a></li>
-  <li><a href="https://swapnilmengade.wordpress.com">Swapnil Mengade</a></li>
-  <li><a href="https://www.varunmehra.me">Varun Mehra</a></li>
-  <li>Alexander Woskob</li>
-</ul>]]></content><author><name>callacarter</name></author><category term="project" /><category term="game" /><summary type="html"><![CDATA[Pollen Nation is an asymmetrical, virtual reality and controller-driven game.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/pollennation1.png" /><media:content medium="image" url="http://localhost:4000/assets/images/pollennation1.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Other Way</title><link href="http://localhost:4000/the-other-way.html" rel="alternate" type="text/html" title="The Other Way" /><published>2018-10-20T12:00:00-04:00</published><updated>2018-10-20T12:00:00-04:00</updated><id>http://localhost:4000/the-other-way</id><content type="html" xml:base="http://localhost:4000/the-other-way.html"><![CDATA[<p>The Other Way is a virtual reality (VR) bicycling experience built for the HTC Vive. I worked as a game designer and programmer on a team of five to design and develop The Other Way in two weeks.</p>
-
-<ul>
-  <li>Personal Contributions
-    <ul>
-      <li>Worked in an interdisciplinary team to design a VR bicycling experience</li>
-      <li>Developed the game using C# in the Unity Game Engine with another programmer</li>
-      <li>Wrote scripts to connect physical bicycle handle and pedal movement to virtual bicycle asset in a 3D space</li>
-      <li>Created dust and wind particle system to create a realistic natural environment</li>
-      <li>Wrote game controller which orchestrated the sequence of events throughout the experience</li>
-      <li>Composed and chose music and sound effects using Logic Pro</li>
-    </ul>
-  </li>
-</ul>
-
-<p>The world presents simple story about childhood independence. The player is a child who is on a bike ride with their mother. When a tree falls blocking their path, the child must set off their own and take an alternate path. While simple, telling the story required considerable thought and iterating to arrive at a VR bike experience that was fun, realistic, and not motion-sickness-inducing.</p>
-
-<dl>
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/nmwFswWJpf8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-</dl>
-
-<hr />
-
-<h3 id="story">Story</h3>
-<p>The original story was quite different from our final product. Initially, we aimed to tell a story about being lost. A child - the player - became separated from their mother, and had to find her in the terrifying environment of an unfamiliar forest. While the experience was engaging, we found that the fear the child felt conflicted with the player’s real-life sense of adventure and wonder inside the virtual reality bike experience.</p>
-
-<p>In order to close the gap, we altered the story to evoke a more similar sense of discovery. The child in the final game is encouraged to take another path through the forest by their mother. They are unsure about the journey, but also excited, curious, and increasingly confident, just like a player experiencing the VR biking world for the first time.</p>
-
-<hr />
-
-<h3 id="bicycle-mechanics">Bicycle Mechanics</h3>
-<p>To detect bicycle mechanics, the bike uses two HTC Vive trackers; one on the handlebars to track rotation, and one around the player’s ankle to track pedaling. Through playtesting, we determined the precise ideal maximum speed, rates of acceleration and deceleration, and rotation speed to make the bicycle feel as real as possible while the player moves through the world.</p>
-
-<p>When the player is moving on the bike, we add tunnel vision to create a constant point of focus and prevent motion sickness. Initially, we (and our playtesters) experienced abrupt, intense, and lingering nausea while riding the bike. We were inspired by <a href="https://developers.google.com/vr/elements/tunneling">Google Daydream</a> to add tunnel vision to the VR space. Our subsequent playtesters’ experiences were consistent with Google’s studies in that they did not notice the tunnel vision while riding through our world.</p>
-
-<hr />
-
-<h3 id="team">Team</h3>
-
-<ul>
-  <li><a href="https://www.conortriplett.com">Conor Triplett</a></li>
-  <li><a href="http://www.wushengzhi.xyz/about">Shengzhi Wu</a></li>
-  <li><a href="http://siyuchenarts.com">Siyu Chen</a></li>
-  <li>Max Hsieh</li>
-</ul>]]></content><author><name>callacarter</name></author><category term="project" /><category term="game" /><category term="vr" /><summary type="html"><![CDATA[The Other Way is a virtual reality bicycling experience built for the HTC Vive.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/otherway_thumbnail.png" /><media:content medium="image" url="http://localhost:4000/assets/images/otherway_thumbnail.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Neopong</title><link href="http://localhost:4000/neopong.html" rel="alternate" type="text/html" title="Neopong" /><published>2018-10-09T12:00:00-04:00</published><updated>2018-10-09T12:00:00-04:00</updated><id>http://localhost:4000/neopong</id><content type="html" xml:base="http://localhost:4000/neopong.html"><![CDATA[<p>Neopong is a physically demanding hybrid of games like Pong and Breakout built on the Kinect. I worked as a game designer and programmer on a team of five to design and develop Neopong in just one week.</p>
-
-<ul>
-  <li>Personal Contributions
-    <ul>
-      <li>Worked in an interdisciplinary team to design a Kinect 2 game</li>
-      <li>Developed the game using C# in the Unity Game Engine with another programmer</li>
-      <li>Wrote scripts to handle paddle and ball behavior, crystals, and goals</li>
-      <li>Handled sequence of events throughout the experience</li>
-    </ul>
-  </li>
-</ul>
-
-<dl>
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/PH9Kc142aY8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
-</dl>]]></content><author><name>callacarter</name></author><category term="project" /><category term="game" /><category term="kinect" /><summary type="html"><![CDATA[Neopong is a physically demanding hybrid of games like Pong and Breakout built on the Kinect.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/neopong_thumbnail.png" /><media:content medium="image" url="http://localhost:4000/assets/images/neopong_thumbnail.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">SpaceFd</title><link href="http://localhost:4000/spacefd.html" rel="alternate" type="text/html" title="SpaceFd" /><published>2018-09-18T12:00:00-04:00</published><updated>2018-09-18T12:00:00-04:00</updated><id>http://localhost:4000/spacefd</id><content type="html" xml:base="http://localhost:4000/spacefd.html"><![CDATA[<p>SpaceFd is a virtual reality space journey designed for the HTC Vive. I worked as a game designer and programmer on a team of five to design and develop it in two weeks.</p>
-
-<dl>
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/P06nYQUiWd4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
-</dl>]]></content><author><name>callacarter</name></author><category term="project" /><category term="game" /><category term="vr" /><summary type="html"><![CDATA[SpaceFd is a virtual reality space journey designed for the HTC Vive.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/spacefd_thumbnail.png" /><media:content medium="image" url="http://localhost:4000/assets/images/spacefd_thumbnail.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Poissy Processional</title><link href="http://localhost:4000/poissy-processional.html" rel="alternate" type="text/html" title="Poissy Processional" /><published>2016-01-28T12:00:00-05:00</published><updated>2016-01-28T12:00:00-05:00</updated><id>http://localhost:4000/poissy-processional</id><content type="html" xml:base="http://localhost:4000/poissy-processional.html"><![CDATA[<p><a href="http://poissyprocessional.brynmawr.edu/?p=146">Poissy Processional</a> is a website which examines a late Gothic, French processional (c. 1450-1500), which was probably held by the aristocratic, Dominican convent of Saint-Louis at Poissy.</p>
-
-<ul>
-  <li>Personal Contributions
-    <ul>
-      <li>Developed a pedagogical, interactive website to make a late-medieval transcript accessible to archeological and literary communities with HTML, CSS, and Javascript</li>
-      <li>Met with History of Art doctoral candidate Nava Streiter and various staff in the Bryn Mawr College Special Collections Department to fulfill client needs</li>
-      <li>Worked with another programmer to set up a Wordpress website, train the client to use the platform</li>
-      <li>Awarded the <a href="http://dvmamedieval.com/grants-and-prizes/digital-project-prize.html">Delaware Valley Medieval Association Digital Projects Prize</a></li>
-      <li>Gave a technical talk about the design and development process to the Delaware Valley Medieval Association</li>
-    </ul>
-  </li>
-</ul>
-
-<hr />
-
-<h3 id="client-requirements">Client Requirements</h3>
-<p>Initially, the client presented me with the following requirements:</p>
-<ul>
-  <li>A digitization of a Gothic Latin text available online that retains the experience of handling the physical object</li>
-  <li>A website that is maintainable by individuals of low technical ability</li>
-</ul>
-
-<p>After my initial meeting with the client, I determined that Wordpress was the best platform to host static information. Its interface made it easy for the client to add and edit content and make minor changes to the site design. I also found and presented the <a href="http://www.turnjs.com">Turn.js</a> API to create the page-turning effect the client requested.</p>]]></content><author><name>callacarter</name></author><category term="project" /><category term="web" /><summary type="html"><![CDATA[A pedagogical, interactive website to make a late-medieval transcript accessible to archeological and literary communities]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/poissyprocessional_thumbnail.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/poissyprocessional_thumbnail.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;ul&gt;
+  &lt;li&gt;The length of the game. We started at two minutes and after reducing it to 90 seconds, we decided that each game would include three one-minute rounds so that a new players on each side would develop strategies.&lt;/li&gt;
+  &lt;li&gt;The length of time bees were trapped by Venus flytraps. When the game was two minutes long, the bees were trapped for 20 seconds. We wanted the bees to be trapped for long enough that they had an incentive to save each other.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;dl&gt;
+	&lt;img width=&quot;60%&quot; style=&quot;margin-left: 1%;&quot; align=&quot;right&quot; src=&quot;/../assets/images/pollennation6.png&quot; /&gt;
+&lt;/dl&gt;
+&lt;ul&gt;
+  &lt;li&gt;The ratio of bees to flowers. We played around with more and less bees and flowers, but settled on three and three. Playtests had shown that with this arrangement, of the three rounds each side won 2 to 1 roughly 50% of the time. The three flower technique created a climax in the game’s interest curve. During the pollination of the first two flowers, generally, the bees split up and the mantis’s attention was divided. By the time only the third flower was left, generally in the last seconds of the game, the mantis was only focusing on one flower, which the bees needed to pollinate.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Finally, we playtested tutorial images that were concise and gave players of many gaming experience levels enough information to succeed in the game.&lt;/p&gt;
+
+&lt;dl&gt;
+	&lt;img width=&quot;70%&quot; src=&quot;/../assets/images/pollennation8.gif&quot; /&gt;
+	&lt;img width=&quot;100%&quot; src=&quot;/../assets/images/pollennation9.gif&quot; /&gt;
+	&lt;img width=&quot;100%&quot; src=&quot;/../assets/images/pollennation10.gif&quot; /&gt;
+&lt;/dl&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;engineering&quot;&gt;Engineering&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;team&quot;&gt;Team&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chiachiaurorakingdom.weebly.com/portfolio.html&quot;&gt;Chia-chi Chang&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://swapnilmengade.wordpress.com&quot;&gt;Swapnil Mengade&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.varunmehra.me&quot;&gt;Varun Mehra&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Alexander Woskob&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>callacarter</name></author><category term="project" /><category term="game" /><summary type="html">Pollen Nation is an asymmetrical, multiplayer, virtual reality (VR) and controller-driven game built for the HTC Vive and PC. I worked as a game designer and programmer on a team of five to design and develop it in three weeks.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/pollennation1.png" /><media:content medium="image" url="http://localhost:4000/assets/images/pollennation1.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Other Way</title><link href="http://localhost:4000/the-other-way.html" rel="alternate" type="text/html" title="The Other Way" /><published>2018-10-20T12:00:00-04:00</published><updated>2018-10-20T12:00:00-04:00</updated><id>http://localhost:4000/the-other-way</id><content type="html" xml:base="http://localhost:4000/the-other-way.html">&lt;p&gt;The Other Way is a virtual reality (VR) bicycling experience built for the HTC Vive. I worked as a game designer and programmer on a team of five to design and develop The Other Way in two weeks.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Personal Contributions
+    &lt;ul&gt;
+      &lt;li&gt;Worked in an interdisciplinary team to design a VR bicycling experience&lt;/li&gt;
+      &lt;li&gt;Developed the game using C# in the Unity Game Engine with another programmer&lt;/li&gt;
+      &lt;li&gt;Wrote scripts to connect physical bicycle handle and pedal movement to virtual bicycle asset in a 3D space&lt;/li&gt;
+      &lt;li&gt;Created dust and wind particle system to create a realistic natural environment&lt;/li&gt;
+      &lt;li&gt;Wrote game controller which orchestrated the sequence of events throughout the experience&lt;/li&gt;
+      &lt;li&gt;Composed and chose music and sound effects using Logic Pro&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The world presents simple story about childhood independence. The player is a child who is on a bike ride with their mother. When a tree falls blocking their path, the child must set off their own and take an alternate path. While simple, telling the story required considerable thought and iterating to arrive at a VR bike experience that was fun, realistic, and not motion-sickness-inducing.&lt;/p&gt;
+
+&lt;dl&gt;
+	&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/nmwFswWJpf8&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/dl&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;story&quot;&gt;Story&lt;/h3&gt;
+&lt;p&gt;The original story was quite different from our final product. Initially, we aimed to tell a story about being lost. A child - the player - became separated from their mother, and had to find her in the terrifying environment of an unfamiliar forest. While the experience was engaging, we found that the fear the child felt conflicted with the player’s real-life sense of adventure and wonder inside the virtual reality bike experience.&lt;/p&gt;
+
+&lt;p&gt;In order to close the gap, we altered the story to evoke a more similar sense of discovery. The child in the final game is encouraged to take another path through the forest by their mother. They are unsure about the journey, but also excited, curious, and increasingly confident, just like a player experiencing the VR biking world for the first time.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;bicycle-mechanics&quot;&gt;Bicycle Mechanics&lt;/h3&gt;
+&lt;p&gt;To detect bicycle mechanics, the bike uses two HTC Vive trackers; one on the handlebars to track rotation, and one around the player’s ankle to track pedaling. Through playtesting, we determined the precise ideal maximum speed, rates of acceleration and deceleration, and rotation speed to make the bicycle feel as real as possible while the player moves through the world.&lt;/p&gt;
+
+&lt;p&gt;When the player is moving on the bike, we add tunnel vision to create a constant point of focus and prevent motion sickness. Initially, we (and our playtesters) experienced abrupt, intense, and lingering nausea while riding the bike. We were inspired by &lt;a href=&quot;https://developers.google.com/vr/elements/tunneling&quot;&gt;Google Daydream&lt;/a&gt; to add tunnel vision to the VR space. Our subsequent playtesters’ experiences were consistent with Google’s studies in that they did not notice the tunnel vision while riding through our world.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;team&quot;&gt;Team&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.conortriplett.com&quot;&gt;Conor Triplett&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.wushengzhi.xyz/about&quot;&gt;Shengzhi Wu&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://siyuchenarts.com&quot;&gt;Siyu Chen&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Max Hsieh&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>callacarter</name></author><category term="project" /><category term="game" /><category term="vr" /><summary type="html">The Other Way is a virtual reality (VR) bicycling experience built for the HTC Vive. I worked as a game designer and programmer on a team of five to design and develop The Other Way in two weeks.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/otherway_thumbnail.png" /><media:content medium="image" url="http://localhost:4000/assets/images/otherway_thumbnail.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Neopong</title><link href="http://localhost:4000/neopong.html" rel="alternate" type="text/html" title="Neopong" /><published>2018-10-09T12:00:00-04:00</published><updated>2018-10-09T12:00:00-04:00</updated><id>http://localhost:4000/neopong</id><content type="html" xml:base="http://localhost:4000/neopong.html">&lt;p&gt;Neopong is a physically demanding hybrid of games like Pong and Breakout built on the Kinect. I worked as a game designer and programmer on a team of five to design and develop Neopong in just one week.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Personal Contributions
+    &lt;ul&gt;
+      &lt;li&gt;Worked in an interdisciplinary team to design a Kinect 2 game&lt;/li&gt;
+      &lt;li&gt;Developed the game using C# in the Unity Game Engine with another programmer&lt;/li&gt;
+      &lt;li&gt;Wrote scripts to handle paddle and ball behavior, crystals, and goals&lt;/li&gt;
+      &lt;li&gt;Handled sequence of events throughout the experience&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;dl&gt;
+	&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/PH9Kc142aY8&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/dl&gt;</content><author><name>callacarter</name></author><category term="project" /><category term="game" /><category term="kinect" /><summary type="html">Neopong is a physically demanding hybrid of games like Pong and Breakout built on the Kinect. I worked as a game designer and programmer on a team of five to design and develop Neopong in just one week.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/neopong_thumbnail.png" /><media:content medium="image" url="http://localhost:4000/assets/images/neopong_thumbnail.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">SpaceFd</title><link href="http://localhost:4000/spacefd.html" rel="alternate" type="text/html" title="SpaceFd" /><published>2018-09-18T12:00:00-04:00</published><updated>2018-09-18T12:00:00-04:00</updated><id>http://localhost:4000/spacefd</id><content type="html" xml:base="http://localhost:4000/spacefd.html">&lt;p&gt;SpaceFd is a virtual reality space journey designed for the HTC Vive. I worked as a game designer and programmer on a team of five to design and develop it in two weeks.&lt;/p&gt;
+
+&lt;dl&gt;
+	&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/P06nYQUiWd4&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/dl&gt;</content><author><name>callacarter</name></author><category term="project" /><category term="game" /><category term="vr" /><summary type="html">SpaceFd is a virtual reality space journey designed for the HTC Vive. I worked as a game designer and programmer on a team of five to design and develop it in two weeks.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/spacefd_thumbnail.png" /><media:content medium="image" url="http://localhost:4000/assets/images/spacefd_thumbnail.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Poissy Processional</title><link href="http://localhost:4000/poissy-processional.html" rel="alternate" type="text/html" title="Poissy Processional" /><published>2016-01-28T12:00:00-05:00</published><updated>2016-01-28T12:00:00-05:00</updated><id>http://localhost:4000/poissy-processional</id><content type="html" xml:base="http://localhost:4000/poissy-processional.html">&lt;p&gt;&lt;a href=&quot;http://poissyprocessional.brynmawr.edu/?p=146&quot;&gt;Poissy Processional&lt;/a&gt; is a website which examines a late Gothic, French processional (c. 1450-1500), which was probably held by the aristocratic, Dominican convent of Saint-Louis at Poissy.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Personal Contributions
+    &lt;ul&gt;
+      &lt;li&gt;Developed a pedagogical, interactive website to make a late-medieval transcript accessible to archeological and literary communities with HTML, CSS, and Javascript&lt;/li&gt;
+      &lt;li&gt;Met with History of Art doctoral candidate Nava Streiter and various staff in the Bryn Mawr College Special Collections Department to fulfill client needs&lt;/li&gt;
+      &lt;li&gt;Worked with another programmer to set up a Wordpress website, train the client to use the platform&lt;/li&gt;
+      &lt;li&gt;Awarded the &lt;a href=&quot;http://dvmamedieval.com/grants-and-prizes/digital-project-prize.html&quot;&gt;Delaware Valley Medieval Association Digital Projects Prize&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;Gave a technical talk about the design and development process to the Delaware Valley Medieval Association&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;client-requirements&quot;&gt;Client Requirements&lt;/h3&gt;
+&lt;p&gt;Initially, the client presented me with the following requirements:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;A digitization of a Gothic Latin text available online that retains the experience of handling the physical object&lt;/li&gt;
+  &lt;li&gt;A website that is maintainable by individuals of low technical ability&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;After my initial meeting with the client, I determined that Wordpress was the best platform to host static information. Its interface made it easy for the client to add and edit content and make minor changes to the site design. I also found and presented the &lt;a href=&quot;http://www.turnjs.com&quot;&gt;Turn.js&lt;/a&gt; API to create the page-turning effect the client requested.&lt;/p&gt;</content><author><name>callacarter</name></author><category term="project" /><category term="web" /><summary type="html">Poissy Processional is a website which examines a late Gothic, French processional (c. 1450-1500), which was probably held by the aristocratic, Dominican convent of Saint-Louis at Poissy.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/poissyprocessional_thumbnail.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/poissyprocessional_thumbnail.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

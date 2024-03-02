@@ -1,8 +1,9 @@
 source "https://rubygems.org"
-gem "jekyll", "~> 4.2.1"
-gem "no-style-please"
+gem "jekyll", "~> 3.9.5"
+gem "no-style-please", "~> 0.4.7"
+gem "kramdown-parser-gfm"
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-feed", "~> 0.15.1"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
